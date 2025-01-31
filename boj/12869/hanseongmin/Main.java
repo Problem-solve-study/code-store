@@ -1,6 +1,7 @@
 //예전에 BFS로 한 번 푼 적이 있어서 DP로 새로 풀었습니다.
 //BFS 코드는 아래에 주석으로 첨부
 
+//19660KB, 140ms
 import java.io.*;
 import java.util.*;
 
@@ -63,9 +64,9 @@ public class Main {
     }
 }
 
+//BFS 풀이
+//18296KB, 156ms
 /*
-이전에 풀었던 BFS 풀이
-
 import java.io.*;
 import java.util.*;
 
