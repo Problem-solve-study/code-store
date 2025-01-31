@@ -1,4 +1,6 @@
 //제출번호: 89149461
+//메모리:	19592 KB
+//실행시간:	180 ms
 import java.util.*;
 
 public class Main
