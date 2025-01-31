@@ -1,4 +1,6 @@
 //제출번호: 89185476
+//메모리:	17784 KB
+//실행시간:	168 ms
 import java.util.*;
 
 public class Main
@@ -44,7 +46,9 @@ public class Main
 }
 
 /* 다른 풀이
- * 제출번호: 89185188
+//제출번호: 89185811
+//메모리:	17592 KB
+//실행시간:	176 ms
  * import java.util.*;
 
 public class Main

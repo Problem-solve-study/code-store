@@ -1,4 +1,6 @@
 //제출번호: 89061677
+//메모리:	40960 KB
+//실행시간:	448 ms
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

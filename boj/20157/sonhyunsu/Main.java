@@ -1,4 +1,6 @@
 //제출번호: 89253459
+//메모리:	46208 KB
+//실행시간:	540 ms
 import java.util.*;
 import java.io.*;
 
