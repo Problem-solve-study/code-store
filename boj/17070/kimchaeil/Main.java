@@ -1,3 +1,5 @@
+//메모리: 13464KB
+//시간: 112ms
 import java.util.*;
 public class Main {
 	public static void main(String[] args) {
