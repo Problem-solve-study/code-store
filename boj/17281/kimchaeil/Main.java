@@ -1,5 +1,5 @@
-//메모리: 13848KB
-//시간: 460ms
+//메모리: 12424KB
+//시간: 324ms
 
 import java.util.*;
 import java.io.*;
@@ -46,11 +46,10 @@ public class Main {
 			while(out<3) {
 				if(players[i][order[cnt]]==0) {out++;}
 				else {
-					bases<<=1; score+=bases/8; bases%=8;
-					bases+=1;
-					for(int j=1;j<players[i][order[cnt]];j++) {
-						bases<<=1; score+=bases/8; bases%=8;
-					}
+					bases<<=1; bases+=1;
+					bases<<=players[i][order[cnt]]-1;
+					score+=Integer.bitCount(bases>>3);
+					bases&=7;
 				}
 				cnt=(cnt+1)%9;
 			}
