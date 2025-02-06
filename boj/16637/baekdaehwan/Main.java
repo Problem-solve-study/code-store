@@ -19,7 +19,6 @@ public class Main {
         maxOpr = N/2;
 
         for (int i=1; i<N; i+=2) swap(i, i+1);
-        solve(2, true);
         solve(2, false);
 
         System.out.println(max);
