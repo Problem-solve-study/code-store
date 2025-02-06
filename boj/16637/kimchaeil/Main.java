@@ -1,13 +1,12 @@
-//메모리 11500KB
-//시간 68ms
+//메모리 11548KB
+//시간 64ms
 
-import java.util.*;
 import java.io.*;
 
 public class Main {
 	static char[] tokens;
 	static int[] partialSum;
-	static int result=Integer.MIN_VALUE;
+	static int result = Integer.MIN_VALUE;
 	static int n;
 
 	public static void main(String[] args) throws IOException {
@@ -27,24 +26,14 @@ public class Main {
 
 	public static void dfs(int idx, int earlyResult) {
 		if (idx >= n) {
-			result = Integer.compare(earlyResult, result)>0 ? earlyResult : result;
+			result = Integer.compare(earlyResult, result) > 0 ? earlyResult : result;
 			return;
 		}
-		int earlyResult1 = calculate(earlyResult, tokens[idx] - '0', tokens[idx - 1]);
-		int earlyResult2 = calculate(earlyResult, partialSum[idx / 2], tokens[idx - 1]);
-		dfs(idx + 2, earlyResult1);
-		dfs(idx + 4, earlyResult2);
+		dfs(idx + 2, calculate(earlyResult, tokens[idx] - '0', tokens[idx - 1]));
+		dfs(idx + 4, calculate(earlyResult, partialSum[idx / 2], tokens[idx - 1]));
 	}
 
 	public static int calculate(int a, int b, char operator) {
-		switch (operator) {
-		case '+':
-			return a + b;
-		case '-':
-			return a - b;
-		case '*':
-			return a * b;
-		}
-		return 0;
+		return operator == '+' ? a + b : (operator == '-' ? a - b : a * b);
 	}
 }
