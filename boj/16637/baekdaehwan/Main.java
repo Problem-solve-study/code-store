@@ -16,7 +16,7 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         N = Integer.parseInt(br.readLine());
         F = br.readLine().toCharArray();
-        maxOpr = N/2+1;
+        maxOpr = N/2;
 
         for (int i=1; i<N; i+=2) swap(i, i+1);
         solve(2, true);
@@ -26,7 +26,7 @@ public class Main {
     }
 
     static void solve(int i, boolean ls) {
-        if (i>=maxOpr) {
+        if (i>maxOpr) {
             max = Math.max(max, calc());
             return;
         }
