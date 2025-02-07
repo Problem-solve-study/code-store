@@ -47,3 +47,48 @@ public class Main {
 	    return sum % 2 == 0;
 	}
 }
+
+/* c++ 검사기
+#include <cstdio>
+
+bool test(long long val) {
+    int s = 0;
+    while (val) {
+        s += val%10;
+        val/=10;
+    }
+
+    return s%2;
+}
+
+int main() {
+    for (int i = 1; i <= 1e8; i++) {
+        if (i%1000000 == 0) {
+            printf("%d pass\t", i);
+            if (i%5000000 == 0) {
+                printf("\n");
+            }
+        }
+
+        long long val = i;
+        if (test(val)) {
+            continue;
+        }
+
+        bool check = false;
+        for (int j = 0; j < 31; j++) {
+            val *= 2;
+            if (test(val)) {
+                check = true;
+                break;
+            }
+        }
+
+        if (!check) {
+            printf("%d\n", i);
+        }
+    }
+    printf("Fin!");
+    return 0;
+}
+*/
