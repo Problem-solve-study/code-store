@@ -1,7 +1,7 @@
 import java.io.*;
 
 /*
-129680KB, 292ms
+12220KB, 128ms
 
 수를 쭉 나열해봐도 딱히 규칙성이 안보임 -> 상수를 깎는 브루트포스로 해보자. 될까?
 수를 나열해봤을 때 생각보다 안수빈수가 빠르게 나오는 것을 확인 -> 브루트포스로 되나?
@@ -32,9 +32,10 @@ public class Main {
     }
 
     static boolean is안수빈수(long n) {
-        int result = 0;
-        for (char c : String.valueOf(n).toCharArray()) {
-            result += c - '0';
+        long result = 0;
+        while(n > 0) {
+            result += n % 10;
+            n /= 10;
         }
 
         return (result & 1) == 1;
