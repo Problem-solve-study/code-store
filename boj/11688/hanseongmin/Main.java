@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.Map.Entry;
 
 /*
-메모리, 시간
+12216KB, 80ms
 
 우리가 찾을 건 LCM(a, b, c) = l을 만족시키는 a, b, c를 구하는 것인데 a, b는 구해져 있으니 c만 구하면 된다.
 LCM(a, b) > l이거나 l % LCM(a, b) != 0이라면 c는 구할 수 없다. 
