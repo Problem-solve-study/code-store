@@ -17,7 +17,7 @@ public class Main {
 
         Arrays.sort(arr);
         
-
+        // 만들수 있는 무게인지 배열을 통해 체크
         check = new boolean[s+1];
         dfs(0, 0);
         int cnt = 0;
@@ -27,7 +27,7 @@ public class Main {
         System.out.println(cnt);
 
     }
-
+    // dfs를 통해 완전탐색하여 만들수 있는 모든 무게의 경우의 수를 체크. dfs 방식은 성민씨 코드 참조함.
     static void dfs(int i, int partsum){
         if(partsum>=0&&!check[partsum]) check[partsum] = true;
         System.out.println(partsum);
