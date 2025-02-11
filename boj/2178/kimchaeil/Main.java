@@ -3,7 +3,9 @@
 
 import java.io.*;
 import java.util.*;
-
+/*
+최단 거리 미로 탐색이므로 BFS 선택
+*/
 public class Main {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -17,12 +19,13 @@ public class Main {
 				map[i][j] = Integer.parseInt(input[j]);
 			}
 		}
-		Queue<int[]> queue = new ArrayDeque<>();
+		Queue<int[]> queue = new ArrayDeque<>(); //[0]은 좌표, [1]은 카운트
+		//좌표 표현을 x와 y를 따로 표현하지 않고 y*m+x로 표현
 		boolean[][] visited = new boolean[n][m];
-		queue.add(new int[] { 0, 1 });
+		queue.add(new int[] { 0, 1 }); //시작지점도 카운트에 포함이므로 카운트를 1부터 시작
 		visited[0][0] = true;
-		int[][] d = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
-		while (!queue.isEmpty()) {
+		int[][] d = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } }; //4방탐색
+		while (!queue.isEmpty()) { //BFS
 			int[] now = queue.poll();
 			if (now[0] == n * m - 1) {
 				System.out.println(now[1]);
