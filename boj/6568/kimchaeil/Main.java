@@ -1,5 +1,5 @@
-//메모리: 11668 KB
-//시간: 68 ms
+//메모리: 11480 KB
+//시간: 64 ms
 
 /*
  * 배열을 참조할 때의 인덱스를 유효하게 만들기 위한 노력을 하였다.
@@ -27,7 +27,7 @@ public class Main {
 			simul: while (true) {
 				pc &= 31; //pc를 5비트로 유지
 				adder &= 255; //adder를 8비트로 유지
-				switch ((arr[pc] & 224) / 32) { //arr[pc]에서 6~8번째 비트만 추출하여 32로 나눈 몫
+				switch ((arr[pc] & 224)>>5) { //arr[pc]에서 6~8번째 비트만 추출
 				case 0:
 					arr[arr[pc] & 31] = adder; //arr에 접근할때는 인덱스를 5비트로 만들고 접근
 					pc++;
