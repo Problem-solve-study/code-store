@@ -91,21 +91,6 @@ public class Main {
         bw.flush();
     }
 
-    static byte[] parsing(String s) {
-        char[] charArr = s.toCharArray();
-        byte order = 0;
-        for (int i = 0; i < 3; i++) {
-            order |= (charArr[i] - '0' << (2 - i));
-        }
-
-        byte body = 0;
-        for (int i = 3; i < 8; i++) {
-            body |= (charArr[i] - '0' << (7 - i));
-        }
-
-        return new byte[] {order, body};
-    }
-
     static char[] toCharArray(byte b) {
         char[] arr = new char[8];
         for (int i = 0; i < arr.length; i++) {
