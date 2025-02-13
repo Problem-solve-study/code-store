@@ -1,5 +1,5 @@
 //문제: 23843번 콘센트
-//메모리: 13024 KB
+//메모리: 13076 KB
 //시간: 108 ms
 
 import java.util.*;
@@ -34,13 +34,12 @@ public class Main {
 		}
 		
 		Arrays.sort(times); //오름차순 정렬
-
 		for(int i=n-1;i>=0;i--) { //뒤에서부터 접근(내림차순)
-			pq.add(pq.poll()+times[i]);	//가장 짧은 대기시간에 충전시간을 더해서 다시 우선순위큐에 삽입
+			pq.add(pq.poll()+times[i]);	//가장 짧은 대기시간에 충전시간을 더해서 우선순위큐에 다시 삽입
 		}
 
 		int result=0;
-		for(int i=0;i<m;i++) { //가장 긴 대시시간 꺼내기
+		while(!pq.isEmpty()){ //가장 긴 대기시간 꺼내기
 			result=pq.poll(); 
 		}
 		bw.write(result+"");
