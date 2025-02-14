@@ -76,25 +76,24 @@ public class Main {
 }
 
 /*
-//제출번호: 90051620
-//메모리:   23888 KB
-//실행시간: 416 ms
+//제출번호: 90053179
+//메모리:   16964 KB
+//실행시간: 208 ms
 
 //메모리를 줄이기 위해 StringTokenizer + Integer.parseInt를 직접 구현.
 //buffer와 pos, size를 이용해서 데이터를 받고 int로 파싱해서 넘겨줌
+//String 객체를 사용하지 않게끔 모두 변경함
 import java.io.*;
-import java.util.*;
 
 public class Main {
 
     static int[] parent = new int[1001], d = new int[1001];
-    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    static char[] buf = new char[8192];
+    static byte[] buf = new byte[32768];
     static int pos = 0;
     static int size = 0;
 
     public static void main(String[] args) throws IOException {
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringBuilder sb = new StringBuilder();
 
         while (true) {
             int n = nextInt();
@@ -126,7 +125,8 @@ public class Main {
             }
 
             if (targetParent <= 0) {
-                bw.append("0\n");
+                sb.append('0');
+                sb.append('\n');
                 continue;
             }
 
@@ -139,10 +139,11 @@ public class Main {
                 }
             }
 
-            bw.append(String.format("%d\n", sibling));
+            sb.append(sibling);
+            sb.append('\n');
         }
 
-        bw.flush();
+        System.out.print(sb);
     }
 
     static int nextInt() throws IOException {
@@ -179,7 +180,7 @@ public class Main {
     }
 
     static void updateBuf() throws IOException {
-        size = br.read(buf);
+        size = System.in.read(buf);
         pos = 0;
     }
 }
