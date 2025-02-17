@@ -1,3 +1,7 @@
+// 문제: 16919번 봄버맨2
+// 메모리: 14696 KB
+// 시간: 472 ms
+
 import java.util.*;
 import java.io.*;
 
