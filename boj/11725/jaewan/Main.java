@@ -47,8 +47,11 @@ public class Main {
 					list.offer(v);
 				}
 		}
+		StringBuilder sb = new StringBuilder();
 		for (int i = 2; i <= N; i++)
-			System.out.println(parent[i]);
+			sb.append(parent[i]).append('\n');
+		System.out.println(sb.toString());
+		
 	}
 
 	static class E {
