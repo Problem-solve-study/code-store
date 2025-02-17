@@ -2,10 +2,11 @@ import java.io.*;
 import java.util.*;
 
 /*
-59420KB, 2716ms
+31084KB, 117ms
 
 가능한 모든 전선의 조합을 확인해보는 방법으로 풀었다.
 자세한 흐름은 아래 코드의 주석으로 설명
+가지치기를 하느냐 안하느냐에 따라 시간 차이가 극명하게 나는듯
  */
 
 public class Solution {
@@ -98,6 +99,10 @@ public class Solution {
                 //코어의 개수가 같다면 짧은 전선 길이를 선택
                 sumOfLength = Math.min(sumOfLength, sum);
             }
+            return;
+        }
+
+        if (coreCnt + (cores.size() - selectedCore) < connectedCore) {
             return;
         }
 
