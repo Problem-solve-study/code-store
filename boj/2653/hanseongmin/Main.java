@@ -3,6 +3,8 @@ import java.util.*;
 import java.util.stream.IntStream;
 
 /*
+19056KB, 212ms
+
 1. 군집 내 인원은 모두 서로를 좋아해야함
 2. 군집 외 인원들에 대해서는 모두를 싫어해야함
 3. 군집은 적어도 2명 이상으로 구성
