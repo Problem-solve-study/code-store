@@ -1,4 +1,4 @@
-// 13020 KB, 88 ms
+// 13004 KB, 84 ms
 /*
  * N 짝수 명이 축구하려고 모였다.
  * N/2명으로 이루어진 스타트 팀과 링크 팀으로 사람을 나누기.
@@ -20,7 +20,6 @@ public class Main {
 	static int N, minDiff = Integer.MAX_VALUE;
 	static int[] sumRow, sumCol;
 	static int[][] S;
-	static boolean[] isStartTeam;
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -31,7 +30,6 @@ public class Main {
 		sumRow = new int[N];
 		sumCol = new int[N];
 		S = new int[N][N];
-		isStartTeam = new boolean[N];
 		for (int i = 0; i < N; i++)
 			for (int j = 0; j < N; j++) {
 				S[i][j] = nextInt(st);
@@ -40,7 +38,7 @@ public class Main {
 				totalSum += S[i][j];
 			}
 
-		makeComb(0, 0, totalSum);
+		makeComb(0, -1, totalSum);
 		System.out.println(minDiff);
 	}
 
@@ -49,14 +47,9 @@ public class Main {
 			minDiff = Math.min(minDiff, Math.abs(remainSum));
 			return;
 		}
-		if (idx == N)
-			return;
 
-		isStartTeam[idx] = true; // 선택
-		makeComb(cnt + 1, idx + 1, remainSum - sumRow[idx] - sumCol[idx]);
-		isStartTeam[idx] = false; // 비선택
-		makeComb(cnt, idx + 1, remainSum);
-
+		for (int i = idx + 1; i < N; i++)
+			makeComb(cnt + 1, i, remainSum - sumRow[i] - sumCol[i]); // i 번째를 선택
 	}
 
 	private static int nextInt(StreamTokenizer st) throws IOException {
