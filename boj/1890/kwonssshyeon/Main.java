@@ -7,7 +7,7 @@ public class Main {
     static long[][] dp;
     /**
      * 메모이제이션하면서 백트래킹
-     * 메모이제이션안하면 시간복잡도가 격자마다 (100*100) 갈 수 있는 방향 2개 => 2^(100*100)
+     * 메모이제이션안하면 시간복잡도가 격자마다 (100*100) 갈 수 있는 방향 2개 => (100*100)^2
      */
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
