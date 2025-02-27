@@ -1,5 +1,5 @@
 //문제: 12026번 BOJ 거리
-//메모리: 11920 KB
+//메모리: 11912 KB
 //시간: 76 ms
 
 /*
@@ -30,7 +30,7 @@ public class Main {
         for (int i = 0; i < n - 1; i++) {
             int next = (arr[i] + 1) % 3; //다음으로 와야할 글자
             if (dp[i] != 0 || i == 0) { //출발지이거나 도달할 수 있는 지점이라면
-                for (int j = i; j < n; j++) { //현재 위치 보다 뒤에 있는
+                for (int j = i + 1; j < n; j++) { //현재 위치 보다 뒤에 있는
                     if (arr[j] == next) { //다음 글자를 찾아서
                         int energy = dp[i] + (j - i) * (j - i); //현 위치에서 뛰었을 때 총 에너지 계산하여
                         dp[j] = dp[j] == 0 ? energy : Math.min(energy, dp[j]); //목적 위치의 dp값과 비교해서 작은값 저장, 만약 처음으로 도달했다면 비교없이 넣기
