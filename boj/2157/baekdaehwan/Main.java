@@ -15,7 +15,6 @@
  * 문제에서 N = 300, c = 10,000이라고 친절히 설명해주었기 때문에, 나올 수 있는 최댓값은 3,000,000임.
  * 따라서 M 초과를 무시하기 위해서, M을 초과하는 방문번째면 Integer.MIN_VALUE 를 반환했음.
  */
-
 import java.io.*;
 import java.util.*;
 
@@ -43,14 +42,14 @@ public class Main {
     }
 
     public static int get(int cur, int cnt) {
-        if (cnt > M) return Integer.MIN_VALUE;
         if (cur == N) return 0;
         if (DP[cur][cnt] == 0) {
-            int max = Integer.MIN_VALUE;
-            for (int[] next: adj.get(cur)) {
-                max = Math.max(max, get(next[0], cnt+1) + next[1]);
+            DP[cur][cnt] = Integer.MIN_VALUE;
+            if (cnt < M) {
+                for (int[] next: adj.get(cur)) {
+                    DP[cur][cnt] = Math.max(DP[cur][cnt], get(next[0], cnt+1) + next[1]);
+                }
             }
-            DP[cur][cnt] = max;
         }
         return DP[cur][cnt];
     }
