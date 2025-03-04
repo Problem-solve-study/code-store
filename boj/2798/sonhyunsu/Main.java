@@ -1,5 +1,10 @@
+
+//제출번호: 90839451
+//메모리:   13080 KB
+//실행시간: 104 ms
 import java.util.Scanner;
 
+//3개만 고르기 때문에 재귀말고 반복문을 쓰고 싶었음
 public class Main {
 
     public static void main(String[] args) {
