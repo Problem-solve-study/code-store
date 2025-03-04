@@ -1,6 +1,16 @@
+
+//제출번호: 90836882
+//메모리:   51952 KB
+//실행시간: 1008 ms
 import java.io.*;
 import java.util.*;
 
+//봉우리만 구하면 나머지는 스택을 이용해서 계산할 수 있을 거라고 봤음
+//처음에 회의실 배정처럼 그리디를 써야하나 싶었는데 그리디를 딥하게 하지 않고
+//풀 수 있을 것으로 생각함
+//봉우리를 구하는 게 문제인데 일단 계산했을 때 연속으로 계산된 두 점이 봉우리의 위치인 것을 알았음
+//하지만 어떤 두 점이 우리가 원하는 봉우리의 두 점인지 캐치해야 하는 게 어려웠음
+//결론적으로 처음 y좌표를 기준으로 연속된 두 점을 골라서 봉우리를 만듦
 public class Main {
 
     static StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
