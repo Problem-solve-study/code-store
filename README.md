@@ -1,3 +1,7 @@
+<!--
+[BOJ ](https://www.acmicpc.net/problem/) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/)
+-->
+
 # 2025 문제 해결 스터디
 
 ## 이달의 문제
@@ -11,7 +15,7 @@
 | 03.04. 화 | [BOJ 2630 색종이 만들기](https://www.acmicpc.net/problem/2630) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2630) | [BOJ 16235 나무 재테크](https://www.acmicpc.net/problem/16235) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16235) | |
 | 03.05. 수 | [BOJ 2579 계단 오르기](https://www.acmicpc.net/problem/2579) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2579) | [BOJ 9470 Strahler 순서](https://www.acmicpc.net/problem/9470) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9470) | |
 | 03.06. 목 | [BOJ 1699 제곱수의 합](https://www.acmicpc.net/problem/1699) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1699) | [BOJ 10714 케이크 자르기](https://www.acmicpc.net/problem/10714) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10714) | |
-| 03.07. 금 |  |  |  |
+| 03.07. 금 | [BOJ 11048 이동하기](https://www.acmicpc.net/problem/11048) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11048) | [BOJ 9370 미확인 도착지](https://www.acmicpc.net/problem/9370) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9370) |  |
 | 03.08. 토 |  |  |  |
 | 03.09. 일 |  |  |  |
 | 03.10. 월 |  |  |  |
