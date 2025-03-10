@@ -18,7 +18,7 @@
 | 03.07. 금 | [BOJ 11048 이동하기](https://www.acmicpc.net/problem/11048) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11048) | [BOJ 9370 미확인 도착지](https://www.acmicpc.net/problem/9370) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9370) |  |
 | 03.08. 토 | [BOJ 10819 차이를 최대로 ](https://www.acmicpc.net/problem/10819) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10819) | [BOJ 25391 특별상](https://www.acmicpc.net/problem/25391) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25391) |  |
 | 03.09. 일 | [BOJ 접두사](https://www.acmicpc.net/problem/1141) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1141) | [BOJ 15558 점프 게임](https://www.acmicpc.net/problem/15558) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15558) |  |
-| 03.10. 월 |  |  |  |
+| 03.10. 월 | [BOJ 2002 추월](https://www.acmicpc.net/problem/2002) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2002) | [BOJ 2195 문자열 복사](https://www.acmicpc.net/problem/2195) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2195) |  |
 | 03.11. 화 |  |  |  |
 | 03.12. 수 |  |  |  |
 | 03.13. 목 |  |  |  |
