@@ -4,6 +4,11 @@
 
 # 2025 문제 해결 스터디
 
+## 오늘의 문제
+| DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />  WEEKLY HARD |
+| :-------- | :--------------- | :--------------- | :--------------- |
+| 03.13. 목 | [BOJ 1182 부분수열의 합](https://www.acmicpc.net/problem/1182) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1182) | [BOJ 16964 DFS 스페셜 저지](https://www.acmicpc.net/problem/16964) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16964) | [BOJ 2647 검은점과 하얀점 연결](https://www.acmicpc.net/problem/2647) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2647) |
+
 ## 이달의 문제
 [SSAFY 13기 구미 3반 알고리즘 스터디 그룹 - 연습](https://www.acmicpc.net/group/practice/22838)
 
@@ -21,7 +26,7 @@
 | 03.10. 월 | [BOJ 2002 추월](https://www.acmicpc.net/problem/2002) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2002) | [BOJ 2195 문자열 복사](https://www.acmicpc.net/problem/2195) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2195) | [BOJ 2647 검은점과 하얀점 연결](https://www.acmicpc.net/problem/2647) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2647) |
 | 03.11. 화 | [BOJ 14620 꽃길](https://www.acmicpc.net/problem/14620) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14620) | [BOJ 25635 자유 이용권](https://www.acmicpc.net/problem/25635) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25635) |  |
 | 03.12. 수 | [BOJ 1535 안녕](https://www.acmicpc.net/problem/1535) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1535) | [BOJ 10840 구간 성분](https://www.acmicpc.net/problem/10840) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10840) |  |
-| 03.13. 목 |  |  |  |
+| 03.13. 목 | [BOJ 1182 부분수열의 합](https://www.acmicpc.net/problem/1182) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1182) | [BOJ 16964 DFS 스페셜 저지](https://www.acmicpc.net/problem/16964) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16964) |  |
 | 03.14. 금 |  |  |  |
 | 03.15. 토 |  |  |  |
 | 03.16. 일 |  |  |  |
