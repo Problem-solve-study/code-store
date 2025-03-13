@@ -45,13 +45,10 @@ public class Main {
     		adj.get(b).add(a);
     	}
     	for (int i=0; i<N; ++i) queue.add(ni());
-    	boolean isPossible = true;
     	
     	int start = queue.poll();
     	if (start == 1) dfs(1);
-    	else isPossible = false;
-        if (!queue.isEmpty()) isPossible = false;
-    	System.out.println(isPossible? 1:0);
+    	System.out.println(queue.isEmpty()? 1:0);
     }
     
     public static void dfs(int cur) {
