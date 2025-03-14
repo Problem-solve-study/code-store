@@ -1,6 +1,6 @@
 //문제: BOJ 12852번 1로 만들기 2
-//메모리: 20472 KB
-//시간: 152 ms
+//메모리: 20444 KB
+//시간: 148 ms
 
 /*
  * 문제에서 주어진 3가지 연산이 모두 값이 줄어드는 연산이므로 DP를 선택
@@ -18,32 +18,33 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		StringBuilder sb = new StringBuilder();
 		int n = Integer.parseInt(new BufferedReader(new InputStreamReader(System.in)).readLine());
-		if (n == 1) { //n이 1이라면 최소횟수는 0이고 경로는 "1"이다
-			sb.append(0).append('\n').append(1);
-		} else {
-			int[][] dp = new int[2][n + 1]; //dp[0]: 도달 최소 횟수, dp[1]: 최단 경로일때 이전 값
-			for (int i = 2; i <= n; i++)
-				dp[0][i] = n;
 
-			int[] times = { 3, 2, 1 };
-			int[] plus = { 0, 0, 1 };
+		int[][] dp = new int[2][n + 1]; // dp[0]: 도달 최소 횟수, dp[1]: 최단 경로일때 이전 값
+		for (int i = 2; i <= n; i++)
+			dp[0][i] = Integer.MAX_VALUE;
 
-			for (int i = 1; i < n; i++) {
-				for (int j = 0; j < 3; j++) {
-					int idx = i * times[j] + plus[j]; //다음 값 연산
-					if (idx > n) //다음 값이 n보다 크면 X
-						continue;
-					if (dp[0][idx] > dp[0][i] + 1) { //다음 값에 더 빨리 갈수 있는 경로라면
-						dp[0][idx] = dp[0][i] + 1; //최소 횟수 초기화
-						dp[1][idx] = i; //다음 값에 갈때의 경로 초기화
-					}
+		int[] times = { 3, 2, 1 };
+		int[] plus = { 0, 0, 1 };
+		int idx = 1;
+
+		for (int i = 1; i < n; i++) {
+			for (int j = 0; j < 3; j++) {
+				idx = i * times[j] + plus[j]; // 다음 값 연산
+				if (idx > n) // 다음 값이 n보다 크면 X
+					continue;
+				if (dp[0][idx] > dp[0][i] + 1) { // 다음 값에 더 빨리 갈수 있는 경로라면
+					dp[0][idx] = dp[0][i] + 1; // 최소 횟수 초기화
+					dp[1][idx] = i; // 다음 값에 갈때의 경로 초기화
 				}
 			}
-			sb.append(dp[0][n]).append('\n');
-			
-			for(int i=n;i!=0;i=dp[1][i]) //경로 추적
-				sb.append(i).append(' ');
 		}
+		sb.append(dp[0][n]).append('\n');
+
+		while (idx != 0) { // 경로 추적, 위 반복문이 끝나면 index==n
+			sb.append(idx).append(' ');
+			idx = dp[1][idx];
+		}
+
 		System.out.println(sb);
 	}
 }
