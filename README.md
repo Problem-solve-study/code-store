@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY                                                        | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL                                                | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD                                                           |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03.15. 토 | [BOJ 14501 퇴사](https://www.acmicpc.net/problem/14501) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14501) | [BOJ 1722 순열의 순서](https://www.acmicpc.net/problem/1722) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1722) | [BOJ 2647 검은점과 하얀점 연결](https://www.acmicpc.net/problem/2647) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2647) |
+| 03.16. 일 | [BOJ 2839 설탕 배](https://www.acmicpc.net/problem/2839) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2839) | [BOJ 21944 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21944) | [BOJ 2647 검은점과 하얀점 연결](https://www.acmicpc.net/problem/2647) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2647) |
 
 ## 이달의 문제
 
