@@ -30,7 +30,8 @@
 | 03.12. 수 | [BOJ 1535 안녕](https://www.acmicpc.net/problem/1535) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1535)              | [BOJ 10840 구간 성분](https://www.acmicpc.net/problem/10840) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10840)       | |
 | 03.13. 목 | [BOJ 1182 부분수열의 합](https://www.acmicpc.net/problem/1182) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1182)     | [BOJ 16964 DFS 스페셜 저지](https://www.acmicpc.net/problem/16964) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16964) | |
 | 03.14. 금 | [BOJ 12852 1로 만들기 2](https://www.acmicpc.net/problem/12852) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12852)   | [BOJ 17089 세 친구](https://www.acmicpc.net/problem/17089) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17089)         | |
-| 03.15. 토 | [BOJ 14501 퇴사](https://www.acmicpc.net/problem/14501) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14501) | [BOJ 1722 순달](https://www.acmicpc.net/problem/2839) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2839) | [BOJ 21944 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21944) | |
+| 03.15. 토 | [BOJ 14501 퇴사](https://www.acmicpc.net/problem/14501) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14501) | [BOJ 1722 순열의 순서](https://www.acmicpc.net/problem/1722) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1722) ||
+| 03.16. 일 | [BOJ 2839 설탕 배달](https://www.acmicpc.net/problem/2839) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2839) | [BOJ 21944 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21944) | |
 | 03.17. 월 | | | |
 | 03.18. 화 | | | |
 | 03.19. 수 | | | |
