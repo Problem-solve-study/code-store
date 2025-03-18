@@ -14,6 +14,8 @@
 
 [SSAFY 13기 구미 3반 알고리즘 스터디 그룹 - 연습](https://www.acmicpc.net/group/practice/22838)
 
+[문제 해결 현황](https://github.com/Problem-solve-study)
+
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 03.01. 토 | | [BOJ 2157 여행](https://www.acmicpc.net/problem/2157) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2157)               | |
