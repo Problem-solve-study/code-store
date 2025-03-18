@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03.18. 화 | [BOJ 1992 쿼드트리](https://www.acmicpc.net/problem/1992) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1992) | [BOJ 1933 스카이라인](https://www.acmicpc.net/problem/1933) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1933) | [BOJ 17420 깊콘이 넘쳐흘러](https://www.acmicpc.net/problem/17420) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17420) |
+| 03.18. 화 | [BOJ 3474 교수가 된 현우](https://www.acmicpc.net/problem/3474) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3474) | [BOJ 1933 스카이라인](https://www.acmicpc.net/problem/1933) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1933) | [BOJ 17420 깊콘이 넘쳐흘러](https://www.acmicpc.net/problem/17420) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17420) |
 
 ## 이달의 문제
 
