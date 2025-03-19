@@ -41,7 +41,7 @@ public class Main {
             A[i][2] = ni();
         }
 
-        // 건물의 좌츧 지점을 기준으로 내림차순 정렬합니다. (위치가 동일하다면 건물 높이 내림차순)
+        // 건물의 좌측 지점을 기준으로 오름차순 정렬합니다. (위치가 동일하다면 건물 높이 내림차순)
         Arrays.sort(A, (a, b) -> {
             int lc = Integer.compare(a[0], b[0]);
             return lc!=0? lc:-Integer.compare(a[1], b[1]);
