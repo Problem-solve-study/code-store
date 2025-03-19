@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03.18. 화 | [BOJ 3474 교수가 된 현우](https://www.acmicpc.net/problem/3474) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3474) | [BOJ 1933 스카이라인](https://www.acmicpc.net/problem/1933) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1933) | [BOJ 17420 깊콘이 넘쳐흘러](https://www.acmicpc.net/problem/17420) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17420) |
+| 03.19. 수 | [BOJ 5525 IOIOI](https://www.acmicpc.net/problem/5525) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5525) | [BOJ 1891 사분면](https://www.acmicpc.net/problem/1891) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1891) | [BOJ 17420 깊콘이 넘쳐흘러](https://www.acmicpc.net/problem/17420) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17420) |
 
 ## 이달의 문제
 
@@ -35,8 +35,8 @@
 | 03.15. 토 | [BOJ 14501 퇴사](https://www.acmicpc.net/problem/14501) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14501) | [BOJ 1722 순열의 순서](https://www.acmicpc.net/problem/1722) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1722) ||
 | 03.16. 일 | [BOJ 2839 설탕 배달](https://www.acmicpc.net/problem/2839) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2839) | [BOJ 21944 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21944) | |
 | 03.17. 월 | [BOJ 5567 결혼식](https://www.acmicpc.net/problem/5567) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5567) | [BOJ 13140 Hello world!](https://www.acmicpc.net/problem/13140) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13140) | [BOJ 17420 깊콘이 넘쳐흘러](https://www.acmicpc.net/problem/17420) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17420) |
-| 03.18. 화 | [BOJ 1992 쿼드트리](https://www.acmicpc.net/problem/1992) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1992) | [BOJ 1933 스카이라인](https://www.acmicpc.net/problem/1933) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1933) | |
-| 03.19. 수 | | | |
+| 03.18. 화 | [BOJ 3474 교수가 된 현우](https://www.acmicpc.net/problem/3474) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3474) | [BOJ 1933 스카이라인](https://www.acmicpc.net/problem/1933) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1933) | |
+| 03.19. 수 | [BOJ 5525 IOIOI](https://www.acmicpc.net/problem/5525) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5525) | [BOJ 1891 사분면](https://www.acmicpc.net/problem/1891) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1891) | |
 | 03.20. 목 | | | |
 | 03.21. 금 | | | |
 | 03.22. 토 | | | |
