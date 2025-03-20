@@ -33,16 +33,16 @@ public class Main {
             R = new ArrayDeque<>(len);
             for (char c: S.toCharArray()) {
             	if (c=='<') {
-            		if (!L.isEmpty()) R.addFirst(L.pollFirst());
+            		if (!L.isEmpty()) R.addFirst(L.pollLast());
             	} else if (c=='>') {
-            		if (!R.isEmpty()) L.addFirst(R.pollFirst());
+            		if (!R.isEmpty()) L.addLast(R.pollFirst());
             	} else if (c=='-') {
-            		if (!L.isEmpty()) L.pollFirst();
+            		if (!L.isEmpty()) L.pollLast();
             	} else {
-            		L.addFirst(c);
+            		L.addLast(c);
             	}
             }
-            while (!L.isEmpty()) res.append(L.pollLast());
+            while (!L.isEmpty()) res.append(L.pollFirst());
             while (!R.isEmpty()) res.append(R.pollFirst());
             res.append('\n');
         }
