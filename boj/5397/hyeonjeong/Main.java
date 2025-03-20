@@ -1,9 +1,12 @@
+// 	98076KB 376ms
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
+// 스택 2개를 연결리스트로 활용
 public class Main {
 
     public static void main(String[] args) throws IOException {
@@ -11,8 +14,8 @@ public class Main {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int T = Integer.parseInt(br.readLine());
-        char[] front;
-        char[] rear;
+        char[] front;        // 커서 앞의 리스트
+        char[] rear;         // 커서 뒤의 리스트
         int frontTop, rearTop;
         for (int t = 0; t < T; t++) {
             char[] input = br.readLine().toCharArray();
