@@ -27,6 +27,11 @@ public class Main {
 	static TreeSet<Vertex> v;
 	static StringBuilder sb = new StringBuilder();
 	
+	//정점 커스텀 클래스
+	//트리셋, 맵을 이용하기 위해, 즉 Comparable을 사용하기 위해 선언해서 사용
+	//hashCode, equels 오버라이딩하고 해시셋, 맵을 사용할 수도 있는데
+	//2개나 오버라이딩해야하고 IDE 없는 상황에서 작성하기가 까다로워
+	//이런 경우 보통 트리셋, 맵 사용하고 Comparable 상속하는 편
 	static class Vertex implements Comparable<Vertex> {
 		int x;
 		int y;
@@ -55,22 +60,26 @@ public class Main {
 	    	
 	    	adj = new TreeMap<>();
 	    	v = new TreeSet<>();
+			//n이 작아서 그냥 i, j 모두 0부터 돌림
 	    	for (int i = 0; i < n + 2; i++) {
 	    		adj.putIfAbsent(vertex[i], new ArrayList<>());
 	    		for (int j = 0; j < n + 2; j++) {
 	    			if (i == j) continue;
+					//맨해튼 거리가 1000 이하라면 갈 수 있는 정점임 -> 간선을 추가해줌
 	    			if (Math.abs(vertex[i].x - vertex[j].x) + Math.abs(vertex[i].y - vertex[j].y) <= 1000) {
 	    				adj.get(vertex[i]).add(vertex[j]);
 	    			}
 	    		}
 	    	}
 	    	
+			//BFS 로직
 	    	Queue<Vertex> q = new ArrayDeque<>();
 	    	q.add(vertex[0]);
 	    	v.add(vertex[0]);
 	    	boolean isHappy = false;
 	    	while (!q.isEmpty()) {
 	    		Vertex cur = q.remove();
+				//compareTo가 0이다 -> 같다.
 	    		if (cur.compareTo(vertex[n + 1]) == 0) {
 	    			isHappy = true;
 	    			break;
