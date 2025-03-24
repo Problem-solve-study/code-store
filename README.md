@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03.20. 목 | [BOJ 5397 키로거](https://www.acmicpc.net/problem/5397) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5397) | [BOJ 10597 순열장난](https://www.acmicpc.net/problem/10597) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10597) | [BOJ 17420 깊콘이 넘쳐흘러](https://www.acmicpc.net/problem/17420) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17420) |
+| 03.20. 목 | [BOJ 1213 팰린드롬 만들기](https://www.acmicpc.net/problem/1213) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1213) | [BOJ 9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9205) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
 
 ## 이달의 문제
 
@@ -38,10 +38,10 @@
 | 03.18. 화 | [BOJ 3474 교수가 된 현우](https://www.acmicpc.net/problem/3474) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3474) | [BOJ 1933 스카이라인](https://www.acmicpc.net/problem/1933) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1933) | |
 | 03.19. 수 | [BOJ 5525 IOIOI](https://www.acmicpc.net/problem/5525) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5525) | [BOJ 1891 사분면](https://www.acmicpc.net/problem/1891) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1891) | |
 | 03.20. 목 | [BOJ 5397 키로거](https://www.acmicpc.net/problem/5397) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5397) | [BOJ 10597 순열장난](https://www.acmicpc.net/problem/10597) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10597) | |
-| 03.21. 금 | | | |
-| 03.22. 토 | | | |
-| 03.23. 일 | | | |
-| 03.24. 월 | | | |
+| 03.21. 금 | [BOJ 1874 스택 수열](https://www.acmicpc.net/problem/1874) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1874) | [BOJ 2305 자리 배치](https://www.acmicpc.net/problem/2305) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2305) | |
+| 03.22. 토 | | [BOJ 14462 소가 길을 건너간 이유 8](https://www.acmicpc.net/problem/14462) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14462) | |
+| 03.23. 일 |  | [BOJ 11909 배열 탈출](https://www.acmicpc.net/problem/11909) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11909) | |
+| 03.24. 월 | [BOJ 1213 팰린드롬 만들기](https://www.acmicpc.net/problem/1213) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1213) | [BOJ 9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9205) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
 | 03.25. 화 | | | |
 | 03.26. 수 | | | |
 | 03.27. 목 | | | |
