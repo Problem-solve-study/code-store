@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03.25. 화 | [BOJ 21275 폰 호석만](https://www.acmicpc.net/problem/21275) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21275) | [BOJ 3425 고스택](https://www.acmicpc.net/problem/3425) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3425) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
+| 03.26. 수 |  | [BOJ 1726 로봇](https://www.acmicpc.net/problem/1726) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1726) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
 
 ## 이달의 문제
 
