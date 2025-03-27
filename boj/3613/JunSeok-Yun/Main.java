@@ -2,12 +2,6 @@
 //11524KB, 64ms
 import java.io.*;
 
-// 예외처리 케이스
-/*
- * 1. 문자열의 첫번째 또는 마지막에 "_" 기호가 오면 error
- * 2. 문자열의 첫번째가 대문자가 되어서는 안된다
- * 3. 문자열에 "_" 기호를 제외한 나머지 기호가 들어오면 error
- */
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
