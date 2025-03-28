@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03.27. 목 | [BOJ 3613 Java vs C++ ](https://www.acmicpc.net/problem/3613) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3613) | [BOJ 23048 자연수 색칠하기](https://www.acmicpc.net/problem/23048) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/23048) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
+| 03.27. 목 |  | [BOJ 21773 가희와 프로세스 1](https://www.acmicpc.net/problem/21773) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21773) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
 
 ## 이달의 문제
 
