@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03.27. 목 | [BOJ 1495 기타리스트](https://www.acmicpc.net/problem/1495) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1495) | [BOJ 21773 가희와 프로세스 1](https://www.acmicpc.net/problem/21773) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21773) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
+| 03.28. 금 |  | [BOJ 19940 피자 오븐](https://www.acmicpc.net/problem/19940) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/19940) | [BOJ 25402 트리와 쿼리](https://www.acmicpc.net/problem/25402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25402) |
 
 ## 이달의 문제
 
@@ -46,7 +46,7 @@
 | 03.26. 수 | [BOJ 30892 상어 키우기](https://www.acmicpc.net/problem/30892) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/30892) | [BOJ 1726 로봇](https://www.acmicpc.net/problem/1726) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1726)| |
 | 03.27. 목 | [BOJ 3613 Java vs C++ ](https://www.acmicpc.net/problem/3613) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3613) | [BOJ 23048 자연수 색칠하기](https://www.acmicpc.net/problem/23048) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/23048) | |
 | 03.28. 금 | [BOJ 1495 기타리스트](https://www.acmicpc.net/problem/1495) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1495) | [BOJ 21773 가희와 프로세스 1](https://www.acmicpc.net/problem/21773) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21773)| |
-| 03.29. 토 | | | |
+| 03.29. 토 | | [BOJ 19940 피자 오븐](https://www.acmicpc.net/problem/19940) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/19940) | |
 | 03.30. 일 | | | |
 | 03.31. 월 | | | |
 
