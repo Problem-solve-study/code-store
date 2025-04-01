@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.02. 화 | [BOJ 1303 전쟁 - 전투](https://www.acmicpc.net/problem/1303) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1303) | [BOJ 16565 N포커](https://www.acmicpc.net/problem/16565) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16565) | [BOJ 10803 정사각형 만들기](https://www.acmicpc.net/problem/10803) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10803) |
+| 04.01. 화 | [BOJ 1303 전쟁 - 전투](https://www.acmicpc.net/problem/1303) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1303) | [BOJ 16565 N포커](https://www.acmicpc.net/problem/16565) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16565) | [BOJ 10803 정사각형 만들기](https://www.acmicpc.net/problem/10803) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10803) |
 
 ## 이달의 문제
 
@@ -18,35 +18,36 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.02. 화 | [BOJ 1303 전쟁 - 전투](https://www.acmicpc.net/problem/1303) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1303) | [BOJ 16565 N포커](https://www.acmicpc.net/problem/16565) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16565) | [BOJ 10803 정사각형 만들기](https://www.acmicpc.net/problem/10803) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10803) |
-| 04.03. 수 | | | |
-| 04.04. 목 | | | |
-| 04.05. 금 | | | |
-| 04.06. 토 | | | |
-| 04.07. 일 | | | |
-| 04.08. 월 | | | |
-| 04.09. 화 | | | |
-| 04.10. 수 | | | |
-| 04.11. 목 | | | |
-| 04.12. 금 | | | |
-| 04.13. 토 | | | |
-| 04.14. 일 | | | |
-| 04.15. 월 | | | |
-| 04.16. 화 | | | |
-| 04.17. 수 | | | |
-| 04.18. 목 | | | |
-| 04.19. 금 | | | |
-| 04.20. 토 | | | |
-| 04.21. 일 | | | |
-| 04.22. 월 | | | |
-| 04.23. 화 | | | |
-| 04.24. 수 | | | |
-| 04.25. 목 | | | |
-| 04.26. 금 | | | |
-| 04.27. 토 | | | |
-| 04.28. 일 | | | |
-| 04.29. 월 | | | |
-| 04.30. 화 | | | |
+| 04.01. 화 | [BOJ 1303 전쟁 - 전투](https://www.acmicpc.net/problem/1303) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1303) | [BOJ 16565 N포커](https://www.acmicpc.net/problem/16565) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16565) | [BOJ 10803 정사각형 만들기](https://www.acmicpc.net/problem/10803) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10803) |
+| 04.02. 수 | | | |
+| 04.03. 목 | | | |
+| 04.04. 금 | | | |
+| 04.05. 토 | | | |
+| 04.06. 일 | | | |
+| 04.07. 월 | | | |
+| 04.08. 화 | | | |
+| 04.09. 수 | | | |
+| 04.10. 목 | | | |
+| 04.11. 금 | | | |
+| 04.12. 토 | | | |
+| 04.13. 일 | | | |
+| 04.14. 월 | | | |
+| 04.15. 화 | | | |
+| 04.16. 수 | | | |
+| 04.17. 목 | | | |
+| 04.18. 금 | | | |
+| 04.19. 토 | | | |
+| 04.20. 일 | | | |
+| 04.21. 월 | | | |
+| 04.22. 화 | | | |
+| 04.23. 수 | | | |
+| 04.24. 목 | | | |
+| 04.25. 금 | | | |
+| 04.26. 토 | | | |
+| 04.27. 일 | | | |
+| 04.28. 월 | | | |
+| 04.29. 화 | | | |
+| 04.30. 수 | | | |
 
 ## Convention
 
