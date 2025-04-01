@@ -23,6 +23,7 @@
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Main {
     static int K, N, F, size;
@@ -52,38 +53,41 @@ public class Main {
                 list.add(i);
         size = list.size();
         select = new boolean[size];
+        Arrays.fill(select, true);
 
         if (!func(new int[K], 0, 0, new boolean[size]))
             System.out.println(-1);
     }
 
-    static boolean func(int[] res, int cnt, int idx, boolean[] isNotPossible) {
+    static boolean func(int[] res, int cnt, int idx, boolean[] isPossible) {
         if (cnt == K) {
-            for (int i = 0; i < K; i++) {
+            for (int i = 0; i < K; i++)
                 System.out.println(res[i]);
-            }
             return true;
         }
 
         for (int i = idx; i < size; i++) {
-            // 선택 불가능하면 패스
-            if (isNotPossible[i])
+            if (!isPossible[i]) // 선택 불가능하면 패스
                 continue;
-            // 후보 list의 i 번째를 선택.
-            res[cnt] = list.get(i);
 
-            // 후보 리스트 갱신, 선택된 요소와 연결되어 있는지.
-            boolean[] temp = new boolean[size];
-            int t1 = list.get(i);
+            res[cnt] = list.get(i); // 후보 list의 i 번째를 선택.
+
+            boolean[] temp = new boolean[size]; // 후보 리스트 갱신, 선택된 요소와 연결되어 있는지 검사.
+            int t1 = list.get(i), huboCnt = 0;
             for (int j = i + 1; j < size; j++) {
-                if (isNotPossible[j]) {
-                    temp[j] = true;
+                if (!isPossible[j])
                     continue;
-                }
-                // 선택한 i 와 연결돼있지 않으면, true.
+
                 int t2 = list.get(j);
-                temp[j] = !adjMatrix[t1][t2];
+                if (adjMatrix[t1][t2]) { // 선택한 i 와 j 가 연결되어 있는지
+                    temp[j] = true;
+                    huboCnt++;
+                }
             }
+
+            if (huboCnt + cnt < K) // 가능한 후보를 다 선택해도 K 개 안되면 가지치기
+                continue;
+
             if (func(res, cnt + 1, i + 1, temp))
                 return true;
         }
