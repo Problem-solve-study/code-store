@@ -13,8 +13,7 @@
 import java.io.*;
 
 class Main {
-	static StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
-
+	
 	public static void main(String args[]) throws Exception {
 		int n = nextInt(), k = nextInt(), m = nextInt();
 		boolean[][] graph = new boolean[n + 1][n + 1];
