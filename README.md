@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.03. 목 | [BOJ 2290 LCD Test](https://www.acmicpc.net/problem/2290) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2290) | [BOJ 14395 4연산](https://www.acmicpc.net/problem/14395) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14395) | [BOJ 10803 정사각형 만들기](https://www.acmicpc.net/problem/10803) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10803) |
+| 04.04. 금 | [BOJ 1764 듣보잡](https://www.acmicpc.net/problem/1764) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1764) | [BOJ 2572 보드게임](https://www.acmicpc.net/problem/2572) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2572) | [BOJ 10803 정사각형 만들기](https://www.acmicpc.net/problem/10803) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10803) |
 
 ## 이달의 문제
 
@@ -21,7 +21,7 @@
 | 04.01. 화 | [BOJ 1303 전쟁 - 전투](https://www.acmicpc.net/problem/1303) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1303) | [BOJ 16565 N포커](https://www.acmicpc.net/problem/16565) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16565) | [BOJ 10803 정사각형 만들기](https://www.acmicpc.net/problem/10803) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10803) |
 | 04.02. 수 |[BOJ 7568 덩치](https://www.acmicpc.net/problem/7568) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/7568) | [BOJ 2099 The game of death](https://www.acmicpc.net/problem/2099) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2099) | |
 | 04.03. 목 | [BOJ 2290 LCD Test](https://www.acmicpc.net/problem/2290) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2290) | [BOJ 14395 4연산](https://www.acmicpc.net/problem/14395) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14395) | |
-| 04.04. 금 | | | |
+| 04.04. 금 |[BOJ 1764 듣보잡](https://www.acmicpc.net/problem/1764) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1764) | [BOJ 2572 보드게임](https://www.acmicpc.net/problem/2572) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2572) | |
 | 04.05. 토 | | | |
 | 04.06. 일 | | | |
 | 04.07. 월 | | | |
