@@ -1,0 +1,99 @@
+//Memory 326028KB Time 1332ms
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class Main {
+    static int N, K, M;
+    static Pair[] choices;
+    static Pair[] queries;
+    static int[][] graph;
+    static int[][] result;
+
+    static class Pair {
+        int a, b;
+        Pair(int a, int b) {
+            this.a = a;
+            this.b = b;
+        }
+    }
+
+    public static void input() throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String[] input = br.readLine().split(" ");
+        N = Integer.parseInt(input[0]);
+        K = Integer.parseInt(input[1]);
+        M = Integer.parseInt(input[2]);
+
+        choices = new Pair[N + 1];
+        for (int i = 1; i <= N; i++) {
+            input = br.readLine().split(" ");
+            choices[i] = new Pair(Integer.parseInt(input[0]), Integer.parseInt(input[1]));
+        }
+
+        queries = new Pair[M];
+        for (int i = 0; i < M; i++) {
+            input = br.readLine().split(" ");
+            queries[i] = new Pair(Integer.parseInt(input[0]), Integer.parseInt(input[1]));
+        }
+    }
+    
+
+
+    public static void buildGraph() {
+        graph = new int[N + 1][N + 1];
+        for (int i = 1; i <= N; i++) {
+            Pair p = choices[i];
+            graph[i][p.a] = 1;
+            graph[i][p.b] = 1;
+        }
+    }
+
+    public static int[][] multiply(int[][] a, int[][] b) {
+        int[][] c = new int[N + 1][N + 1];
+        for (int i = 1; i <= N; i++) {
+            for (int j = 1; j <= N; j++) {
+                for (int k = 1; k <= N; k++) {
+                    c[i][j] += a[i][k] * b[k][j];
+                    if (c[i][j] > 0) c[i][j] = 1; // 경로 존재 여부만 필요
+                }
+            }
+        }
+        return c;
+    }
+
+    public static int[][] power(int[][] matrix, int k) {
+        int[][] result = new int[N + 1][N + 1];
+        for (int i = 1; i <= N; i++) result[i][i] = 1; // 단위 행렬
+
+        while (k > 0) {
+            if (k % 2 == 1) {
+                result = multiply(result, matrix);
+            }
+            matrix = multiply(matrix, matrix);
+            k /= 2;
+        }
+
+        return result;
+    }
+
+    public static void solveQueries() {
+        result = power(graph, K);
+        StringBuilder sb = new StringBuilder();
+        for (Pair query : queries) {
+            int a = query.a, b = query.b;
+            if (result[a][b] > 0) {
+                sb.append("death\n");
+            } else {
+                sb.append("life\n");
+            }
+        }
+        System.out.print(sb.toString());
+    }
+
+    public static void main(String[] args) throws IOException {
+        input();
+        buildGraph();
+        solveQueries();
+    }
+}
