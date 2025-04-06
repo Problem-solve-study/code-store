@@ -2,15 +2,17 @@ import java.io.*;
 import java.util.*;
 
 /*
-141812KB, 1168ms
+34344KB, 964ms
 
 선호도와 도수 레벨 2가지를 주길래 배낭 문제인가 싶었다가 수 범위보고 아닌 것 같았다.
 수의 범위가 2^31씩이나 주는데다가 특정 값의 최솟값을 구하라는 것을 보고 매개변수 탐색으로 접근(왜 문제 태그에는 없는지 모르겠음)
 문제를 잘못 읽고 마신 맥주의 도수 레벨의 합이 간 레벨의 합보다 낮아야한다는 건줄 알고 약간 헤맸음
+
+※ StreamTokenizer 쓸 때 반드시 BufferedReader를 같이 쓰십쇼... 메모리 141812 -> 34344로 엄청 차이크게 나네요
  */
 
 public class Main {
-    static StreamTokenizer st = new StreamTokenizer(new InputStreamReader(System.in));
+    static StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
     static int N, M, K;
     static int[][] beer;
 
