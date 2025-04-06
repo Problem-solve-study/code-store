@@ -1,4 +1,4 @@
-//Memory 14242kb Time 104ms
+//Memory 14242kb Time 104ms.
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
