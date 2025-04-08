@@ -40,9 +40,7 @@ for /f "tokens=2 delims=/" %%b in ("%boj_path%") do (
 REM 4. README.md 에서 해당 줄 찾기
 for /f "usebackq delims=" %%l in ("README.md") do (
     set "current_line=%%l"
-    set "temp_line=!current_line!"
-
-    if not "!temp_line:%problem_id%=!"=="!temp_line!" (
+    if not "!current_line:%problem_id%=!"=="!current_line!" (
         set "line=!current_line!"
         goto :found_line
     )
@@ -52,7 +50,7 @@ exit /b
 
 :found_line
 
-REM 4. 셀 파싱 및 날짜 추출
+REM 5. 날짜 추출
 setlocal EnableDelayedExpansion
 set i=0
 for /f "tokens=1-10 delims=|" %%a in ("!line!") do (
@@ -73,7 +71,16 @@ set "rawDate=!rawDate:.=!"
 set "rawDate=!rawDate: =!"
 set "date=!rawDate:~0,4!"
 
-REM 5. 난이도 태그 추출
+if "!rawDate!"=="" (
+    echo ⛔️ 해당 문제의 날짜를 찾을 수 없습니다.
+    exit /b 1
+)
+if "!date!"=="" (
+    echo ⛔️ 해당 문제의 날짜를 찾을 수 없습니다.
+    exit /b 1
+)
+
+REM 6. 난이도 태그 추출
 REM 태그 배열 (0: E, 1: N, 2: H)
 set "tag="
 for %%i in (2 3 4) do (
@@ -98,10 +105,10 @@ if "!tag!"=="" (
     exit /b 1
 )
 
-REM 6. 커밋 메시지 생성
+REM 7. 커밋 메시지 생성
 set "message=Solve: %date% %tag% BOJ %problem_id%"
 
-REM 7. 메시지 출력 및 확인
+REM 8. 메시지 출력 및 확인
 echo.
 echo 📝 커밋 메시지 미리보기:
 echo %message%
@@ -112,12 +119,16 @@ if /i "%confirm%"=="n" (
     echo 🚫 커밋/푸시가 취소되었습니다.
     exit /b
 )
+if not "%confirm%"=="" (
+    echo ⚠️ 취소 또는 잘못된 입력입니다. Enter 를 눌러야 커밋됩니다.
+    exit /b
+)
 
-REM 8. 커밋 수행
+REM 9. 커밋 수행
 git commit -m "%message%"
 echo ✅ 커밋 완료!
 
-REM 9. 브랜치 확인 및 push
+REM 10. 브랜치 확인 및 push
 for /f %%b in ('git branch --show-current') do (
     set "current_branch=%%b"
 )
