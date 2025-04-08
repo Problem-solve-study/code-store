@@ -4,6 +4,7 @@ import java.util.*;
 
 /**
  * 이젠 익숙하죠
+ * 분할정복을 이용한 거듭제곱
  */
 public class Main {
     static long a, n, c;
