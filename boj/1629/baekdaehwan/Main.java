@@ -1,3 +1,9 @@
+/**
+ * 11468KB	68ms
+ * 
+ * 분할정복을 이용한 거듭제곱 쓰면 될 것 같아서, 비재귀로 구현했습니다
+ */
+
 import java.io.*;
 
 public class Main {
