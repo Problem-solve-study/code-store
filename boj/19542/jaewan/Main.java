@@ -1,4 +1,4 @@
-// 37396 KB, 224 ms
+// 37348 KB, 196 ms
 /*
  * 힘 D 만큼 전단지를 전달할 수 있다. 실제로 안 가도 됨.
  * 최소한만 이동해서 모든 노드에 전단지를 돌리기.
@@ -17,7 +17,7 @@ import java.util.Arrays;
 
 public class Main {
     static int N, S, D;
-    static int curDepth = -1, hyunminDepth, movingDist;
+    static int hyunminDepth, movingDist;
     static int[] depth;
     static Node[] tree;
 
@@ -37,11 +37,11 @@ public class Main {
         depth = new int[N + 1];
         Arrays.fill(depth, -1);
 
-        DFS(S);
+        DFS(S, 0);
         System.out.println(movingDist);
     }
 
-    static void DFS(int x) {
+    static void DFS(int x, int curDepth) {
         curDepth++;
 
         // 초기값이면 현재 깊이 기록
@@ -57,8 +57,7 @@ public class Main {
         for (int child : tree[x].link) {
             if (depth[child] != -1)
                 continue;
-            DFS(child);
-            curDepth = depth[x];
+            DFS(child, curDepth + 1);
 
             // 돌아가는 거리 계산
             if (hyunminDepth > curDepth) {
