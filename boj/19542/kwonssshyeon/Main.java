@@ -1,4 +1,4 @@
-// 65940KB	428ms
+// 65940KB	428ms (입출력 최적화로 224ms 까지 단축가능)
 import java.io.*;
 import java.util.*;
 
