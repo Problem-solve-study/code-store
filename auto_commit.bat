@@ -36,18 +36,21 @@ for /f "tokens=2 delims=/" %%b in ("%boj_path%") do (
     set "problem_id=%%b"
 )
 
-REM 4. README.md 에서 해당 줄 찾기
+REM 4. README.md 에서 해당 줄 찾기 (번호가 정확히 일치하는 경우만)
+set "problem_id_with_spaces= !problem_id! "
+
 for /f "usebackq delims=" %%l in ("README.md") do (
     set "current_line=%%l"
-    if not "!current_line:%problem_id%=!"=="!current_line!" (
+    if not "!current_line:%problem_id_with_spaces%=!"=="!current_line!" (
         set "line=!current_line!"
-        goto :found_line
     )
 )
-echo ⛔️ README.md에서 해당 문제를 찾을 수 없습니다.
-exit /b
 
-:found_line
+REM TODO: README 에서 문제 번호를 찾을 수 없는 경우 git pull 하여, 한번 더 확인한다.
+if "!line!"=="" (
+    echo ⛔️ README.md에서 해당 문제를 찾을 수 없습니다.
+    exit /b
+)
 
 REM 5. 날짜 추출
 set i=0
