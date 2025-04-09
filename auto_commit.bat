@@ -137,7 +137,7 @@ if /i "%current_branch%"=="main" (
     exit /b
 )
 
-REM 11. 커밋 수행
+REM 11. commit 수행
 git commit -m "%message%"
 echo ✅ 커밋 완료!
 
