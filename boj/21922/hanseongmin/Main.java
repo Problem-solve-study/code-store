@@ -8,16 +8,18 @@ import java.util.*;
  * 도를 닦는 느낌으로 천천히 구현..
  */
 
+
 public class Main {
 	static StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
 	static int N, M;
 	static ArrayList<int[]> starts = new ArrayList<>();
-	static int[] dr = {1, -1, 0, 0};
-	static int[] dc = {0, 0, 1, -1};
 	static final int DOWN = 0;
 	static final int UP = 1;
 	static final int RIGHT = 2;
 	static final int LEFT = 3;
+	static int[] dr = {1, -1, 0, 0};
+	static int[] dc = {0, 0, 1, -1};
+	static int[][] dd = {{DOWN, UP, RIGHT, LEFT}, {DOWN, UP, RIGHT, LEFT}, {DOWN, UP, RIGHT, LEFT}, {LEFT, RIGHT, UP, DOWN}, {RIGHT, LEFT, DOWN, UP}};
 	static int[][] map;
 	static boolean[][] check;
 	
@@ -39,7 +41,6 @@ public class Main {
 			int sr = start[0];
 			int sc = start[1];
 			check[sr][sc] = true;
-			
 			//현재 에어컨으로부터 상하좌우 4방향으로 시뮬레이션
 			for (int i = 0; i < 4; i++) {
 				simulation(sr, sc, i);
@@ -65,39 +66,11 @@ public class Main {
 			c += dc[d];
 			if (!bc(r, c)) break;
 			check[r][c] = true;
-			
 			//도착한 위치가 에어컨이면 더 탐색할 필요없음. (어차피 모든 에어컨의 모든 방향을 보므로)
-			if (map[r][c] == 9) {
+			if (map[r][c] == 9 || (map[r][c] == 1 && (d == LEFT || d == RIGHT)) || (map[r][c] == 2 && (d == UP || d == DOWN))) {
 				break;
-			} else if (map[r][c] == 1) {
-				if (d == LEFT || d == RIGHT) {
-					break;
-				}
-			} else if (map[r][c] == 2) {
-				if (d == UP || d == DOWN) {
-					break;
-				}
-			} else if (map[r][c] == 3) {
-				if (d == DOWN) {
-					d = LEFT;
-				} else if (d == UP) {
-					d = RIGHT;
-				} else if (d == LEFT) {
-					d = DOWN;
-				} else {
-					d = UP;
-				}
-			} else if (map[r][c] == 4) {
-				if (d == DOWN) {
-					d = RIGHT;
-				} else if (d == UP) {
-					d = LEFT;
-				} else if (d == LEFT) {
-					d = UP;
-				} else {
-					d = DOWN;
-				}
-			}
+			} 
+			d = dd[map[r][c]][d];
 		}
 	}
 	
