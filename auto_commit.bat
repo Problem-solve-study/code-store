@@ -121,8 +121,12 @@ if not "%confirm%"=="" (
     echo ⚠️ 취소 또는 잘못된 입력입니다. Enter 를 눌러야 커밋됩니다.
     exit /b
 )
+REM 9. 브랜치 확인
+for /f %%b in ('git branch --show-current') do (
+    set "current_branch=%%b"
+)
 
-REM 9. 레포지토리 pull
+REM 10. 레포지토리 pull
 if /i "%current_branch%"=="main" (
     git stash
     git pull
@@ -133,15 +137,12 @@ if /i "%current_branch%"=="main" (
     exit /b
 )
 
-REM 10. 커밋 수행
+REM 11. 커밋 수행
 git commit -m "%message%"
 echo ✅ 커밋 완료!
 
-REM 11. 브랜치 확인 및 push
-for /f %%b in ('git branch --show-current') do (
-    set "current_branch=%%b"
-)
 
+REM 12. 커밋을 main 브랜치에 push
 if /i "%current_branch%"=="main" (
     git push origin main
     echo ✅ main 브랜치에 push 완료!
