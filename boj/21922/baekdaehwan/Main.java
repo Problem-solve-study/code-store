@@ -1,5 +1,5 @@
 /**
- * 34704KB	572ms
+ * 34884KB	544ms
  * 
  * [사고흐름]
  * 그래프 탐색 문제같다고 생각했습니다. 
@@ -29,8 +29,7 @@
  * 
  * 이를 응용해서 탐색하면 됩니다.
  */
-
- import java.io.*;
+import java.io.*;
 import java.util.*;
 
 public class Main {
@@ -75,20 +74,22 @@ public class Main {
         	if (!isValid(c.r, c.c)) continue;
         	
         	int curBias = map[c.r][c.c];
-        	if (map[c.r][c.c] == -1) {
+        	if (curBias == -1) {
         		q.add(c);
-        	} else if (map[c.r][c.c] < 2) {
-        		c.dr *= biasRow[curBias];
-        		c.dc *= biasCol[curBias];
-        		q.add(c);
-        	} else if (map[c.r][c.c] < 4) {
-        		int tmp = c.dr; c.dr=c.dc; c.dc=tmp;
+        	} else if (curBias < 4) {
+        		if (1 < curBias) swapDir(c);
         		c.dr *= biasRow[curBias];
         		c.dc *= biasCol[curBias];
         		q.add(c);
         	}
         }
         System.out.println(res);
+    }
+    
+    static void swapDir(Pos p) {
+    	int tmp = p.dr; 
+    	p.dr = p.dc; 
+    	p.dc = tmp;
     }
     
     static class Pos {
