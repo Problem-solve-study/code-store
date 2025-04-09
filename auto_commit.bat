@@ -3,7 +3,6 @@ chcp 65001 >nul
 setlocal EnableDelayedExpansion
 
 REM 1. 스테이징된 파일 목록 가져오기 (최대 2개까지 검사)
-setlocal EnableDelayedExpansion
 set "file1="
 set "file2="
 
@@ -51,7 +50,6 @@ exit /b
 :found_line
 
 REM 5. 날짜 추출
-setlocal EnableDelayedExpansion
 set i=0
 for /f "tokens=1-10 delims=|" %%a in ("!line!") do (
     set "cell[1]=%%a"
@@ -124,11 +122,22 @@ if not "%confirm%"=="" (
     exit /b
 )
 
-REM 9. 커밋 수행
+REM 9. 레포지토리 pull
+if /i "%current_branch%"=="main" (
+    git stash
+    git pull
+    git stash pop --index
+    echo ✅ main 브랜치 pull 완료!
+) else (
+    echo ⚠️ 현재 브랜치가 'main'이 아니라서 종료됨: %current_branch%
+    exit /b
+)
+
+REM 10. 커밋 수행
 git commit -m "%message%"
 echo ✅ 커밋 완료!
 
-REM 10. 브랜치 확인 및 push
+REM 11. 브랜치 확인 및 push
 for /f %%b in ('git branch --show-current') do (
     set "current_branch=%%b"
 )
