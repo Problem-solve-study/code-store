@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.10. 목 | [BOJ 9465 스티커](https://www.acmicpc.net/problem/9465) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9465) | [BOJ 10836 여왕벌](https://www.acmicpc.net/problem/10836) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10836) | [BOJ 17408 수열과 쿼리 24](https://www.acmicpc.net/problem/17408) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17408) |
+| 04.11. 금 | [BOJ 17451 평행 우주](https://www.acmicpc.net/problem/17451) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17451) | [BOJ 13902 개업 2](https://www.acmicpc.net/problem/13902) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13902) | [BOJ 17408 수열과 쿼리 24](https://www.acmicpc.net/problem/17408) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17408) |
 
 <br>
 
@@ -30,7 +30,7 @@
 | 04.08. 화 | [BOJ 1629 곱셈](https://www.acmicpc.net/problem/1629) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1629) | [BOJ 19542 전단지 돌리기](https://www.acmicpc.net/problem/19542) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/19542)| |
 | 04.09. 수 | [BOJ 1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1389) | [BOJ 21922 학부 연구생 민상](https://www.acmicpc.net/problem/21922) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21922) | |
 | 04.10. 목 | [BOJ 9465 스티커](https://www.acmicpc.net/problem/9465) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9465) | [BOJ 10836 여왕벌](https://www.acmicpc.net/problem/10836) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10836) | |
-| 04.11. 금 | | | |
+| 04.11. 금 | [BOJ 17451 평행 우주](https://www.acmicpc.net/problem/17451) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17451) | [BOJ 13902 개업 2](https://www.acmicpc.net/problem/13902) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13902) | |
 | 04.12. 토 | | | |
 | 04.13. 일 | | | |
 | 04.14. 월 | | | |
