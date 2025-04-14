@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.14. 월 |  | [BOJ 3673 나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3673) | [BOJ 2983 개구리 공주](https://www.acmicpc.net/problem/2983) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2983) |
+| 04.15. 화 | [BOJ 9461 파도반 수열](https://www.acmicpc.net/problem/9461) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9461) | [BOJ 24041 성싶당 밀키트](https://www.acmicpc.net/problem/24041) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24041) | [BOJ 2983 개구리 공주](https://www.acmicpc.net/problem/2983) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2983) |
 
 <br>
 
@@ -33,8 +33,8 @@
 | 04.11. 금 | [BOJ 17451 평행 우주](https://www.acmicpc.net/problem/17451) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17451) | [BOJ 13902 개업 2](https://www.acmicpc.net/problem/13902) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13902) | |
 | 04.12. 토 | [BOJ 2594 놀이공원](https://www.acmicpc.net/problem/2594) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2594) | [BOJ 12834 주간 미팅](https://www.acmicpc.net/problem/12834) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12834) | |
 | 04.13. 일 | [BOJ 11896 다각형](https://www.acmicpc.net/problem/11896) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11896) | [BOJ 15897 잘못 구현한 에라토스테네스의 체](https://www.acmicpc.net/problem/15897) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15897) | |
-| 04.14. 월 |  | [BOJ 3673 나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3673) | [BOJ 2983 개구리 공주](https://www.acmicpc.net/problem/2983) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2983) |
-| 04.15. 화 | | | |
+| 04.14. 월 | [BOJ 10971 외판원 순회 2 ](https://www.acmicpc.net/problem/10971) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10971) | [BOJ 3673 나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3673) | [BOJ 2983 개구리 공주](https://www.acmicpc.net/problem/2983) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2983) |
+| 04.15. 화 | [BOJ 9461 파도반 수열](https://www.acmicpc.net/problem/9461) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9461) | [BOJ 24041 성싶당 밀키트](https://www.acmicpc.net/problem/24041) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24041) | |
 | 04.16. 수 | | | |
 | 04.17. 목 | | | |
 | 04.18. 금 | | | |
