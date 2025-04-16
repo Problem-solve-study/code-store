@@ -77,3 +77,58 @@ public class Main {
         return st.sval;
     }
 }
+
+/* 상향식 DP로 구현한 코드
+import java.io.*;
+
+public class Main {
+    
+    static StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
+
+    public static void main(String[] args) throws IOException {
+        int n = nextInt() * 3;
+        char[] drugs = nextString().toCharArray();
+
+        //구간의 길이를 작은 순에서 큰 순으로 거꾸로 올라가기 때문에
+        //약도 반대로 먹어야 함  
+        char[] day = {'D', 'L', 'B'};
+
+        int[][] dp = new int[n][n];
+        //구간의 길이를 가장 작은 순서부터 큰 순서로 dp를 업데이트 함
+        for (int i = 0; i < n; i++) {
+            char eatDrug = day[i % 3]; //현재 먹을 약
+            for (int s = n - i - 1; s >= 0; s--) {
+                int e = s + i; //[s, e] 구간에 대해서
+
+                //s 위치가 지금 먹어야 할 약이면서 s가 전체 구간의 오른쪽 끝이 아니라면
+                if (drugs[s] == eatDrug && s < n - 1) {
+                    //[s+1, e] 구간의 최댓값 + 1이 최대임
+                    dp[s][e] = Math.max(dp[s][e], dp[s+1][e] + 1);
+                }
+                
+                //e 위치가 지금 먹어야 할 약이면서 e가 전체 구간의 왼쪽 끝이 아니라면 
+                if (drugs[e] == eatDrug && e > 0) {
+                    //[s, e-1] 구간의 최댓값 + 1이 최대임
+                    dp[s][e] = Math.max(dp[s][e], dp[s][e-1] + 1);
+                }
+
+                //s == e인 상황에서는 if 둘 중 하나는 무조건 실행하기 때문에 최종적으로 dp가 업뎃됨
+                //if 둘 다 안 된다면 dp[s][e] = 0이므로 불가능한 경우라는 뜻이 됨
+            }
+        }
+
+        //전체 구간의 최댓값을 출력
+        System.out.print(dp[0][n - 1]);
+    }
+
+    static int nextInt() throws IOException {
+        st.nextToken();
+        return (int) st.nval;
+    }
+
+    static String nextString() throws IOException {
+        st.nextToken();
+        return st.sval;
+    }
+}
+ */
