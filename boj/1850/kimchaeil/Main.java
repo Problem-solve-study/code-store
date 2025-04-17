@@ -19,20 +19,15 @@ public class Main {
 
 	public static void main(String[] args) throws IOException {
 		StringBuilder sb = new StringBuilder();
-		long a = nextLong(), b = nextLong();
-		for (int i = Euclid(a, b); i > 0; i--)
-			sb.append(1);
-		System.out.println(sb);
-	}
-
-	static int Euclid(long a, long b) {
-		long r1 = a, r2 = b, r;
+		long r1 = nextLong(), r2 = nextLong(), r;
 		while (r2 != 0) {
 			r = r1 % r2;
 			r1 = r2;
 			r2 = r;
 		}
-		return (int) r1;
+		while (r1-- > 0)
+			sb.append('1');
+		System.out.print(sb);
 	}
 
 	static long nextLong() throws IOException {
