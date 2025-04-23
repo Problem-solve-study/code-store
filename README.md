@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.22. 화 | [BOJ 15954 인형들](https://www.acmicpc.net/problem/15954) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15954) | [BOJ 15811 복면산?!](https://www.acmicpc.net/problem/15811) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15811) | [BOJ 3025 돌 던지기](https://www.acmicpc.net/problem/3025) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3025) |
+| 04.23. 수 | [BOJ 1706 크로스워드](https://www.acmicpc.net/problem/1706) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1706) | [BOJ 5502 팰린드롬](https://www.acmicpc.net/problem/5502) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5502) | [BOJ 3025 돌 던지기](https://www.acmicpc.net/problem/3025) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3025) |
 
 <br>
 
@@ -42,7 +42,7 @@
 | 04.20. 일 | [BOJ 16463 13일의 금요일](https://www.acmicpc.net/problem/16463) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16463) | [BOJ 1917 정육면체 전개도](https://www.acmicpc.net/problem/1917) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1917) | |
 | 04.21. 월 | [BOJ 27940 가지 산사태](https://www.acmicpc.net/problem/27940) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/27940) | [BOJ 1081 합](https://www.acmicpc.net/problem/1081) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1081) | [BOJ 3025 돌 던지기](https://www.acmicpc.net/problem/3025) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3025) |
 | 04.22. 화 | [BOJ 15954 인형들](https://www.acmicpc.net/problem/15954) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15954) | [BOJ 15811 복면산?!](https://www.acmicpc.net/problem/15811) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15811) | |
-| 04.23. 수 | | | |
+| 04.23. 수 | [BOJ 1706 크로스워드](https://www.acmicpc.net/problem/1706) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1706) | [BOJ 5502 팰린드롬](https://www.acmicpc.net/problem/5502) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5502) | |
 | 04.24. 목 | | | |
 | 04.25. 금 | | | |
 | 04.26. 토 | | | |
