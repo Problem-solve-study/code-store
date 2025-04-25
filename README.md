@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.24. 목 | [BOJ 17262 팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17262) | [BOJ 2922 즐거운 단어](https://www.acmicpc.net/problem/2922) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2922) | [BOJ 3025 돌 던지기](https://www.acmicpc.net/problem/3025) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3025) |
+| 04.25. 금 | [BOJ 22871 징검다리 건너기 (large)러](https://www.acmicpc.net/problem/22871) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22871) | [BOJ 25401 카드 바꾸기](https://www.acmicpc.net/problem/25401) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25401) | [BOJ 3025 돌 던지기](https://www.acmicpc.net/problem/3025) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3025) |
 
 <br>
 
@@ -44,7 +44,7 @@
 | 04.22. 화 | [BOJ 15954 인형들](https://www.acmicpc.net/problem/15954) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15954) | [BOJ 15811 복면산?!](https://www.acmicpc.net/problem/15811) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15811) | |
 | 04.23. 수 | [BOJ 1706 크로스워드](https://www.acmicpc.net/problem/1706) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1706) | [BOJ 5502 팰린드롬](https://www.acmicpc.net/problem/5502) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5502) | |
 | 04.24. 목 | [BOJ 17262 팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17262) | [BOJ 2922 즐거운 단어](https://www.acmicpc.net/problem/2922) | |
-| 04.25. 금 | | | |
+| 04.25. 금 | [BOJ 22871 징검다리 건너기 (large)러](https://www.acmicpc.net/problem/22871) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22871) | [BOJ 25401 카드 바꾸기](https://www.acmicpc.net/problem/25401) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25401) | |
 | 04.26. 토 | | | |
 | 04.27. 일 | | | |
 | 04.28. 월 | | | |
