@@ -27,8 +27,7 @@ public class Main {
 
 	static int nextInt() throws Exception {
 		int n, c;
-		while ((c = System.in.read()) < 48)
-			;
+		while ((c = System.in.read()) < 48);
 		n = c & 15;
 		while ((c = System.in.read()) > 47)
 			n = (n << 3) + (n << 1) + (c & 15);
