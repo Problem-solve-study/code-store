@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.26. 토 | [BOJ 2428 표절](https://www.acmicpc.net/problem/2428) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2428) | [BOJ 16434 드래곤 앤 던전](https://www.acmicpc.net/problem/16434) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16434) | [BOJ 3025 돌 던지기](https://www.acmicpc.net/problem/3025) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3025) |
+| 04.28. 월 | [BOJ 17827 달팽이 리스트](https://www.acmicpc.net/problem/17827) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17827) | [BOJ 22252 정보 상인 호석](https://www.acmicpc.net/problem/22252) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22252) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
 
 <br>
 
@@ -46,8 +46,8 @@
 | 04.24. 목 | [BOJ 17262 팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17262) | [BOJ 2922 즐거운 단어](https://www.acmicpc.net/problem/2922) | |
 | 04.25. 금 | [BOJ 22871 징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22871) | [BOJ 25401 카드 바꾸기](https://www.acmicpc.net/problem/25401) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25401) | |
 | 04.26. 토 | [BOJ 2428 표절](https://www.acmicpc.net/problem/2428) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2428) | [BOJ 16434 드래곤 앤 던전](https://www.acmicpc.net/problem/16434) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16434) | |
-| 04.27. 일 | | | |
-| 04.28. 월 | | | |
+| 04.27. 일 | [BOJ 8896 가위 바위 보](https://www.acmicpc.net/problem/8896) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8896) | [BOJ 1242 소풍](https://www.acmicpc.net/problem/1242) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1242) | |
+| 04.28. 월 | [BOJ 17827 달팽이 리스트](https://www.acmicpc.net/problem/17827) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17827) | [BOJ 22252 정보 상인 호석](https://www.acmicpc.net/problem/22252) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22252) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
 | 04.29. 화 | | | |
 | 04.30. 수 | | | |
 
