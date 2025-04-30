@@ -1,4 +1,4 @@
-// 13508 KB, 100 ms
+// 12688 KB, 84 ms
 /*
  * 정수 카드 한 장 씩
  * a, b, c
@@ -17,48 +17,46 @@
  */
 
 import java.io.IOException;
-import java.util.ArrayDeque;
-import java.util.Iterator;
-import java.util.TreeSet;
+import java.util.Arrays;
 
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        TreeSet<Data> cardSet = new TreeSet<>();
         int aSize = readInt(), bSize = readInt(), cSize = readInt();
-        for (int i = 0; i < aSize; i++)
-            cardSet.add(new Data(0, readInt()));
-        for (int i = 0; i < bSize; i++)
-            cardSet.add(new Data(1, readInt()));
-        for (int i = 0; i < cSize; i++)
-            cardSet.add(new Data(2, readInt()));
+        Card[] cards = new Card[aSize + bSize + cSize];
+        int idx = 0;
+        while (aSize-- > 0)
+            cards[idx++] = new Card(0, readInt());
+        while (bSize-- > 0)
+            cards[idx++] = new Card(1, readInt());
+        while (cSize-- > 0)
+            cards[idx++] = new Card(2, readInt());
 
-        int min = Integer.MAX_VALUE;
+        Arrays.sort(cards);
+
+        int min = Integer.MAX_VALUE, l = 0;
         int[] cardCnt = new int[3];
-        ArrayDeque<Data> deque = new ArrayDeque<>();
-        Iterator<Data> iter = cardSet.iterator();
-        while (iter.hasNext()) {
-            Data d = iter.next();
-            cardCnt[d.player]++;
-            deque.addLast(d);
+
+        for (int i = 0; i < idx; i++) {
+            cardCnt[cards[i].player]++;
             while (cardCnt[0] > 0 && cardCnt[1] > 0 && cardCnt[2] > 0) {
-                min = Math.min(min, deque.peekLast().num - deque.peekFirst().num);
-                cardCnt[deque.removeFirst().player]--;
+                min = Math.min(min, cards[i].num - cards[l].num);
+                cardCnt[cards[l++].player]--;
             }
         }
         System.out.println(min);
     }
 
-    static class Data implements Comparable<Data> {
+    static class Card implements Comparable<Card> {
         int player, num;
 
-        public Data(int player, int num) {
+        public Card(int player, int num) {
             this.player = player;
             this.num = num;
         }
 
         @Override
-        public int compareTo(Main.Data o) {
+        public int compareTo(Main.Card o) {
             return num != o.num ? num - o.num : player - o.player;
         }
 
