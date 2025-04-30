@@ -39,16 +39,13 @@ public class Main {
         for (int i=0; i<N; ++i) A[0][i] = ni();
         for (int i=0; i<M; ++i) A[1][i] = ni();
         for (int i=0; i<K; ++i) A[2][i] = ni();
-        Arrays.sort(A[0]);
-        Arrays.sort(A[1]);
-        Arrays.sort(A[2]);
+        for (int i=0; i<3; ++i) Arrays.sort(A[i]);
+
         int res = Integer.MAX_VALUE;
-        for (int i=0; i<3; ++i) {
-            int j = (i+1)%3;
-            int k = (i+2)%3;
-            for (int iv: A[i]) {
-                res = Math.min(res, Math.max(lb(A[j],iv), lb(A[k],iv)) - iv);
-            }
+        for (int a=0; a<3; ++a) {
+            int b = (a+1)%3;
+            int c = (a+2)%3;
+            for (int av: A[a]) res = Math.min(res, Math.max(lb(A[b], av), lb(A[c], av)) - av);
         }
         System.out.println(res);
     }
