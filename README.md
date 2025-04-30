@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 04.29. 화 | [BOJ 27964 콰트로치즈피자](https://www.acmicpc.net/problem/27964) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/27964) | [BOJ 12886 돌 그룹](https://www.acmicpc.net/problem/12886) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12886) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
+| 04.30. 수 | [BOJ 25045 비즈마켓](https://www.acmicpc.net/problem/25045) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25045) | [BOJ 16498 작은 벌점](https://www.acmicpc.net/problem/16498) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16498) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
 
 <br>
 
@@ -49,7 +49,7 @@
 | 04.27. 일 | [BOJ 8896 가위 바위 보](https://www.acmicpc.net/problem/8896) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8896) | [BOJ 1242 소풍](https://www.acmicpc.net/problem/1242) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1242) | |
 | 04.28. 월 | [BOJ 17827 달팽이 리스트](https://www.acmicpc.net/problem/17827) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17827) | [BOJ 22252 정보 상인 호석](https://www.acmicpc.net/problem/22252) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22252) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
 | 04.29. 화 | [BOJ 27964 콰트로치즈피자](https://www.acmicpc.net/problem/27964) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/27964) | [BOJ 12886 돌 그룹](https://www.acmicpc.net/problem/12886) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12886) | |
-| 04.30. 수 | | | |
+| 04.30. 수 | [BOJ 25045 비즈마켓](https://www.acmicpc.net/problem/25045) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25045) | [BOJ 16498 작은 벌점](https://www.acmicpc.net/problem/16498) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16498) | |
 
 <br>
 
