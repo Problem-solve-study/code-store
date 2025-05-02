@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 05.01. 목 | [BOJ 26070 곰곰이와 학식](https://www.acmicpc.net/problem/26070) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/26070) | [BOJ 1990 소수인팰린드롬](https://www.acmicpc.net/problem/1990) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1990) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
+| 05.02. 금 | [BOJ 27967 고추장 괄호 문자열](https://www.acmicpc.net/problem/27967) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/27967) | [BOJ 20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20437) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
 
 <br>
 
@@ -21,7 +21,7 @@
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 05.01. 목 | [BOJ 26070 곰곰이와 학식](https://www.acmicpc.net/problem/26070) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/26070) | [BOJ 1990 소수인팰린드롬](https://www.acmicpc.net/problem/1990) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1990) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
-| 05.02. 금 |  |  |  |
+| 05.02. 금 | [BOJ 27967 고추장 괄호 문자열](https://www.acmicpc.net/problem/27967) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/27967) | [BOJ 20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20437) | |
 | 05.03. 토 |  |  |  |
 | 05.04. 일 |  |  |  |
 | 05.05. 월 |  |  |  |
