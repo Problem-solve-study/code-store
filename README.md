@@ -24,7 +24,7 @@
 | 05.02. 금 | [BOJ 27967 고추장 괄호 문자열](https://www.acmicpc.net/problem/27967) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/27967) | [BOJ 20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20437) | |
 | 05.03. 토 | [BOJ 3024 마라톤 틱택토](https://www.acmicpc.net/problem/3024) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3024) | [BOJ 21738 얼음깨기 펭귄](https://www.acmicpc.net/problem/21738) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21738) | |
 | 05.04. 일 | [BOJ 17484 진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17484) | [BOJ 14440 정수 수열](https://www.acmicpc.net/problem/14440) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14440) | |
-| 05.05. 월 |  |  |  |
+| 05.05. 월 | [BOJ 25707 팔찌 만들기](https://www.acmicpc.net/problem/25707) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25707) | [BOJ 1089 스타트링크 타워](https://www.acmicpc.net/problem/1089) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1089) | [BOJ 1090 체커](https://www.acmicpc.net/problem/1090) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1090) |
 | 05.06. 화 |  |  |  |
 | 05.07. 수 |  |  |  |
 | 05.08. 목 |  |  |  |
