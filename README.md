@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 05.04. 일 | [BOJ 17484 진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17484) | [BOJ 14440 정수 수열](https://www.acmicpc.net/problem/14440) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14440) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
+| 05.04. 일 | [BOJ 7482 상자 만들기](https://www.acmicpc.net/problem/7482) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/7482) | [BOJ 15553 난로](https://www.acmicpc.net/problem/15553) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15553) | [BOJ 9376 탈옥](https://www.acmicpc.net/problem/9376) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9376) |
 
 <br>
 
@@ -25,7 +25,7 @@
 | 05.03. 토 | [BOJ 3024 마라톤 틱택토](https://www.acmicpc.net/problem/3024) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3024) | [BOJ 21738 얼음깨기 펭귄](https://www.acmicpc.net/problem/21738) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21738) | |
 | 05.04. 일 | [BOJ 17484 진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17484) | [BOJ 14440 정수 수열](https://www.acmicpc.net/problem/14440) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14440) | |
 | 05.05. 월 | [BOJ 25707 팔찌 만들기](https://www.acmicpc.net/problem/25707) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25707) | [BOJ 1089 스타트링크 타워](https://www.acmicpc.net/problem/1089) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1089) | [BOJ 1090 체커](https://www.acmicpc.net/problem/1090) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1090) |
-| 05.06. 화 |  |  |  |
+| 05.06. 화 | [BOJ 7482 상자 만들기](https://www.acmicpc.net/problem/7482) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/7482) | [BOJ 15553 난로](https://www.acmicpc.net/problem/15553) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15553) |  |
 | 05.07. 수 |  |  |  |
 | 05.08. 목 |  |  |  |
 | 05.09. 금 |  |  |  |
