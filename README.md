@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 05.10. 토 | [BOJ 24500 blobblush](https://www.acmicpc.net/problem/24500) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24500) | [BOJ 2374 같은 수로 만들기](https://www.acmicpc.net/problem/2374) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2374) | [BOJ 1090 체커](https://www.acmicpc.net/problem/1090) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1090) |
+| 05.11. 일 | [BOJ 24499 blobyum](https://www.acmicpc.net/problem/24499) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24499) | [BOJ 1344 축구](https://www.acmicpc.net/problem/1344) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1344) | [BOJ 1090 체커](https://www.acmicpc.net/problem/1090) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1090) |
 
 <br>
 
@@ -30,7 +30,7 @@
 | 05.08. 목 | [BOJ 30088 공포의 면담실](https://www.acmicpc.net/problem/30088) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/30088) | [BOJ 14585 사수빈탕](https://www.acmicpc.net/problem/14585) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14585) |  |
 | 05.09. 금 | [BOJ 9536 여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9536) | [BOJ 2216 문자열과 점수](https://www.acmicpc.net/problem/2216) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2216) |  |
 | 05.10. 토 | [BOJ 24500 blobblush](https://www.acmicpc.net/problem/24500) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24500) | [BOJ 2374 같은 수로 만들기](https://www.acmicpc.net/problem/2374) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2374) | |
-| 05.11. 일 |  |  |  |
+| 05.11. 일 | [BOJ 24499 blobyum](https://www.acmicpc.net/problem/24499) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24499) | [BOJ 1344 축구](https://www.acmicpc.net/problem/1344) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1344) |  |
 | 05.12. 월 |  |  |  |
 | 05.13. 화 |  |  |  |
 | 05.14. 수 |  |  |  |
