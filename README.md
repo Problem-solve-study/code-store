@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 05.13. 화 | [BOJ 2149 암호 해독](https://www.acmicpc.net/problem/2149) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2149) | [BOJ 2247 실질적 약수](https://www.acmicpc.net/problem/2247) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2247) | [BOJ 1087 쥐 잡기](https://www.acmicpc.net/problem/1087) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1087) |
+| 05.14. 수 | [BOJ 25375 아주 간단한 문제](https://www.acmicpc.net/problem/25375) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25375) | [BOJ 20210 파일 탐색기](https://www.acmicpc.net/problem/20210) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20210) | [BOJ 1087 쥐 잡기](https://www.acmicpc.net/problem/1087) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1087) |
 
 <br>
 
@@ -33,7 +33,7 @@
 | 05.11. 일 | [BOJ 24499 blobyum](https://www.acmicpc.net/problem/24499) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24499) | [BOJ 1344 축구](https://www.acmicpc.net/problem/1344) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1344) |  |
 | 05.12. 월 | [BOJ 13717 포켓몬 GO](https://www.acmicpc.net/problem/13717) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13717) | [BOJ 3665 최종 순위](https://www.acmicpc.net/problem/3665) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3665) | [BOJ 1087 쥐 잡기](https://www.acmicpc.net/problem/1087) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1087) |
 | 05.13. 화 | [BOJ 2149 암호 해독](https://www.acmicpc.net/problem/2149) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2149) | [BOJ 2247 실질적 약수](https://www.acmicpc.net/problem/2247) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2247) |  |
-| 05.14. 수 |  |  |  |
+| 05.14. 수 | [BOJ 25375 아주 간단한 문제](https://www.acmicpc.net/problem/25375) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25375) | [BOJ 20210 파일 탐색기](https://www.acmicpc.net/problem/20210) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20210) |  |
 | 05.15. 목 |  |  |  |
 | 05.16. 금 |  |  |  |
 | 05.17. 토 |  |  |  |
