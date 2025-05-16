@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 05.16. 금 | [BOJ 11502 세 개의 소수 문제](https://www.acmicpc.net/problem/11502) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11502) | [BOJ 17130 토끼가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17130) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17130) | [BOJ 1087 쥐 잡기](https://www.acmicpc.net/problem/1087) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1087) |
+| 05.17. 토 | [BOJ 6600 원의 둘레](https://www.acmicpc.net/problem/6600) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/6600) | [BOJ 15926 현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15926) | [BOJ 1087 쥐 잡기](https://www.acmicpc.net/problem/1087) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1087) |
 
 <br>
 
@@ -36,7 +36,7 @@
 | 05.14. 수 | [BOJ 25375 아주 간단한 문제](https://www.acmicpc.net/problem/25375) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25375) | [BOJ 20210 파일 탐색기](https://www.acmicpc.net/problem/20210) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20210) |  |
 | 05.15. 목 | [BOJ 17086 아기 상어 2](https://www.acmicpc.net/problem/17086) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17086) | [BOJ 1022 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1022) |  |
 | 05.16. 금 | [BOJ 11502 세 개의 소수 문제](https://www.acmicpc.net/problem/11502) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11502) | [BOJ 17130 토끼가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17130) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17130) |  |
-| 05.17. 토 |  |  |  |
+| 05.17. 토 | [BOJ 6600 원의 둘레](https://www.acmicpc.net/problem/6600) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/6600) | [BOJ 15926 현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15926) |  |
 | 05.18. 일 |  |  |  |
 | 05.19. 월 |  |  |  |
 | 05.20. 화 |  |  |  |
