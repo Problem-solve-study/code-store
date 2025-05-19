@@ -8,7 +8,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 05.19. 월 | [BOJ 3049 다각형의 대각선](https://www.acmicpc.net/problem/3049) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3049) | [BOJ 5624 좋은 수](https://www.acmicpc.net/problem/5624) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5624) | [BOJ 4243 보안 업체](https://www.acmicpc.net/problem/4243) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/4243) |
+| 05.20. 화 | [BOJ 1755 숫자놀이](https://www.acmicpc.net/problem/1755) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1755) | [BOJ 1833 고속철도 설계하기](https://www.acmicpc.net/problem/1833) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1833) | [BOJ 4243 보안 업체](https://www.acmicpc.net/problem/4243) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/4243) |
 
 <br>
 
@@ -39,7 +39,7 @@
 | 05.17. 토 | [BOJ 6600 원의 둘레](https://www.acmicpc.net/problem/6600) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/6600) | [BOJ 15926 현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15926) |  |
 | 05.18. 일 | [BOJ 9081 단어 맞추기](https://www.acmicpc.net/problem/9081) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9081) | [BOJ 14948 군대탈출하기](https://www.acmicpc.net/problem/14948) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14948) |  |
 | 05.19. 월 | [BOJ 3049 다각형의 대각선](https://www.acmicpc.net/problem/3049) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3049) | [BOJ 5624 좋은 수](https://www.acmicpc.net/problem/5624) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/5624) | [BOJ 4243 보안 업체](https://www.acmicpc.net/problem/4243) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/4243) |
-| 05.20. 화 |  |  |  |
+| 05.20. 화 | [BOJ 1755 숫자놀이](https://www.acmicpc.net/problem/1755) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1755) | [BOJ 1833 고속철도 설계하기](https://www.acmicpc.net/problem/1833) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1833) |  |
 | 05.21. 수 |  |  |  |
 | 05.22. 목 |  |  |  |
 | 05.23. 금 |  |  |  |
