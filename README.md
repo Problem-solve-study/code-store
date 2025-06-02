@@ -42,15 +42,15 @@
 | 05.20. 화 | [BOJ 1755 숫자놀이](https://www.acmicpc.net/problem/1755) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1755) | [BOJ 1833 고속철도 설계하기](https://www.acmicpc.net/problem/1833) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1833) |  |
 | 05.21. 수 | [BOJ 29198 이번에는 C번이 문자열](https://www.acmicpc.net/problem/29198) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/29198) | [BOJ 16402 제국](https://www.acmicpc.net/problem/16402) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16402) |  |
 | 05.22. 목 | [BOJ 25496 장신구 명장 임스](https://www.acmicpc.net/problem/25496) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25496) | [BOJ 21276 계보 복원가 호석](https://www.acmicpc.net/problem/21276) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21276) |  |
-| 05.23. 금 |  |  |  |
-| 05.24. 토 |  |  |  |
-| 05.25. 일 |  |  |  |
-| 05.26. 월 |  |  |  |
+| 05.23. 금 | [BOJ 이름궁합 테스트](https://www.acmicpc.net/problem/17269) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17269) | [BOJ 얼음 미로](https://www.acmicpc.net/problem/20926) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20926) |  |
+| 05.24. 토 | [BOJ 동물원](https://www.acmicpc.net/problem/1309) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1309) | [BOJ 카드 게임](https://www.acmicpc.net/problem/11062) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11062) |  |
+| 05.25. 일 | [BOJ 매직스퀘어](https://www.acmicpc.net/problem/15739) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15739) | [BOJ 수학은 너무 쉬워](https://www.acmicpc.net/problem/2904) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2904) |  |
+| 05.26. 월 | [BOJ 좋은 구간](https://www.acmicpc.net/problem/1059) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1059) | [BOJ Contact](https://www.acmicpc.net/problem/1013) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1013) | [BOJ 컨닝](https://www.acmicpc.net/problem/1014) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1014) |
 | 05.27. 화 |  |  |  |
 | 05.28. 수 |  |  |  |
 | 05.29. 목 |  |  |  |
-| 05.30. 금 |  |  |  |
-| 05.31. 토 |  |  |  |
+| 05.30. 금 | [BOJ 평행사변형](https://www.acmicpc.net/problem/1064) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1064) | [BOJ 그림 교환](https://www.acmicpc.net/problem/1029) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1029) |  |
+| 05.31. 토 | [BOJ 평행사변형](https://www.acmicpc.net/problem/1064) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1064) | [BOJ 프렉탈 평면](https://www.acmicpc.net/problem/1030) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1030) |  |
 
 
 <br>
