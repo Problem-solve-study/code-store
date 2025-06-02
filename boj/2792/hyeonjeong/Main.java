@@ -1,4 +1,4 @@
-// 35476KB 2628ms
+// 35664KB 368ms
 
 import java.io.*;
 import java.util.StringTokenizer;
@@ -43,13 +43,7 @@ class Main {
     static boolean checkBound(long maxBead) {
         int count = 0;
         for (int i = 0; i < beads.length; i++) {
-            int thisBeads = beads[i];
-
-            while (thisBeads > maxBead) {
-                thisBeads -= maxBead;
-                count++;
-            }
-            count++;
+            count += Math.ceil(beads[i] * 1.0 / maxBead);
         }
 
         if (count <= n) {
