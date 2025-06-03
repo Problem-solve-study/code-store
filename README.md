@@ -23,7 +23,7 @@
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 06.01. 일 | [BOJ 알고리즘 수업 - 병합 정렬 2](https://www.acmicpc.net/problem/24061) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24061) | [BOJ 로고](https://www.acmicpc.net/problem/3108) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3108) |  |
 | 06.02. 월 | [BOJ 보석 상자](https://www.acmicpc.net/problem/2792) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2792) | [BOJ 이진수](https://www.acmicpc.net/problem/2226) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2226) | [BOJ SW 역량 테스트](https://www.acmicpc.net/problem/13448) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13448) |
-| 06.03. 화 |  |  |  |
+| 06.03. 화 | [BOJ 다이나믹 롤러](https://www.acmicpc.net/problem/17393) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17393) | [BOJ 미친 아두이노](https://www.acmicpc.net/problem/8972) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8972) |  |
 | 06.04. 수 |  |  |  |
 | 06.05. 목 |  |  |  |
 | 06.06. 금 |  |  |  |
