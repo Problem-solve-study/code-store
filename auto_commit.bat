@@ -37,11 +37,12 @@ for /f "tokens=2 delims=/" %%b in ("%boj_path%") do (
 )
 
 REM 4. README.md 에서 해당 줄 찾기 (번호가 정확히 일치하는 경우만)
-set "problem_id_with_spaces= !problem_id! "
+set "exact_problem_marker=/!problem_id!)"
 
 for /f "usebackq delims=" %%l in ("README.md") do (
     set "current_line=%%l"
-    if not "!current_line:%problem_id_with_spaces%=!"=="!current_line!" (
+
+    if not "!current_line:%exact_problem_marker%=!"=="!current_line!" (
         set "line=!current_line!"
     )
 )
