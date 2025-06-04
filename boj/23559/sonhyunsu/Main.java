@@ -47,3 +47,45 @@ public class Main {
         return n;
     }
 }
+
+/* 위 코드를 개량한 버전 - 실행시간이랑 메모리가 확 줆
+//제출번호: 95071182
+//메모리:   17024 KB
+//실행시간: 184 ms
+import java.io.*;
+import java.util.*;
+
+public class Main {
+	public static void main(String[] args) throws IOException {
+	    int n = nextInt();
+	    int x = nextInt() / 1000 - n;
+	    
+	    List<Integer> diff = new ArrayList<>();
+        int res = 0;
+        while (n-- > 0) {
+            int a = nextInt(), b = nextInt();
+            
+            res += b;
+            if (a > b) {
+                diff.add(a - b);
+            }
+        }
+        
+        diff.sort(Comparator.reverseOrder());
+        
+        int cnt = Math.min(x / 4, diff.size());
+        for (int i = 0; i < cnt; i++) {
+            res += diff.get(i);
+        }
+        
+        System.out.print(res);
+	}
+    
+    static int nextInt() throws IOException {
+        int n = System.in.read() & 15, c;
+        while ((c = System.in.read()) > 47)
+            n = (n << 3) + (n << 1) + (c & 15);
+        return n;
+    }
+}
+ */
