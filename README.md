@@ -25,7 +25,7 @@
 | 06.02. 월 | [BOJ 보석 상자](https://www.acmicpc.net/problem/2792) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2792) | [BOJ 이진수](https://www.acmicpc.net/problem/2226) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2226) | [BOJ SW 역량 테스트](https://www.acmicpc.net/problem/13448) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13448) |
 | 06.03. 화 | [BOJ 다이나믹 롤러](https://www.acmicpc.net/problem/17393) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17393) | [BOJ 미친 아두이노](https://www.acmicpc.net/problem/8972) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8972) |  |
 | 06.04. 수 |  [BOJ 원숭이 매달기](https://www.acmicpc.net/problem/2716) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2716) | [BOJ 밥](https://www.acmicpc.net/problem/23559) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/23559) |  |
-| 06.05. 목 |  |  |  |
+| 06.05. 목 |  [BOJ 새끼치기](https://www.acmicpc.net/problem/17291) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17291) | [BOJ 귀찮은 해강이](https://www.acmicpc.net/problem/24391) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24391) |  |
 | 06.06. 금 |  |  |  |
 | 06.07. 토 |  |  |  |
 | 06.08. 일 |  |  |  |
