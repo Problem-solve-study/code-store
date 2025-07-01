@@ -9,7 +9,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 06.22. 일 | [BOJ donstructive](https://www.acmicpc.net/problem/30618) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/30618) | [BOJ 자와 각도기](https://www.acmicpc.net/problem/2916) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2916) | [BOJ 물약](https://www.acmicpc.net/problem/1050) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1050) |
+| 06.30. 월 | [BOJ 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24446) | [BOJ 새로운 하노이 탑](https://www.acmicpc.net/problem/12906) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12906) | [BOJ 트리의 외심](https://www.acmicpc.net/problem/17399) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17399) |
 
 <br>
 
@@ -43,14 +43,14 @@
 | 06.20. 금 | [BOJ 기술 연계마스터 임스](https://www.acmicpc.net/problem/25497) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25497) | [BOJ 당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/18234) | |
 | 06.21. 토 | [BOJ 물건 팔기](https://www.acmicpc.net/problem/1487) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1487) | [BOJ 최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14476) | |
 | 06.22. 일 | [BOJ donstructive](https://www.acmicpc.net/problem/30618) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/30618) | [BOJ 자와 각도기](https://www.acmicpc.net/problem/2916) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2916) | |
-| 06.23. 월 |  |  |  |
+| 06.23. 월 | [BOJ 센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/19638) | [BOJ 귀농](https://www.acmicpc.net/problem/1184) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1184) | [BOJ 개미](https://www.acmicpc.net/problem/14942) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14942) |
 | 06.24. 화 |  |  |  |
-| 06.25. 수 |  |  |  |
-| 06.26. 목 |  |  |  |
-| 06.27. 금 |  |  |  |
-| 06.28. 토 |  |  |  |
-| 06.29. 일 |  |  |  |
-| 06.30. 월 |  |  |  |
+| 06.25. 수 | [BOJ 정렬](https://www.acmicpc.net/problem/17074) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17074) | [BOJ 물벼룩의 생존확률](https://www.acmicpc.net/problem/13703) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13703) |  |
+| 06.26. 목 | [BOJ 피보나치 수의 개수](https://www.acmicpc.net/problem/6571) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/6571) | [BOJ HTML 파싱](https://www.acmicpc.net/problem/22859) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22859) |  |
+| 06.27. 금 | [BOJ 줄자접기](https://www.acmicpc.net/problem/2597) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2597) | [BOJ 아우으 우아으이야!!](https://www.acmicpc.net/problem/15922) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15922) |  |
+| 06.28. 토 | [BOJ N결수](https://www.acmicpc.net/problem/27965) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/27965) | [BOJ 가희의 고구마 먹방](https://www.acmicpc.net/problem/21772) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/21772) |  |
+| 06.29. 일 | [BOJ 학생 인기도 측정](https://www.acmicpc.net/problem/25325) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/25325) | [BOJ 사냥꾼](https://www.acmicpc.net/problem/8983) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8983) |  |
+| 06.30. 월 | [BOJ 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24446) | [BOJ 새로운 하노이 탑](https://www.acmicpc.net/problem/12906) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12906) | [BOJ 트리의 외심](https://www.acmicpc.net/problem/17399) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17399) |
 
 
 
