@@ -12,7 +12,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 07.03. 목 | [BOJ 평행선](https://www.acmicpc.net/problem/2358) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2358) | [BOJ 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14464) | [BOJ 트리의 외심](https://www.acmicpc.net/problem/17399) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17399) |
+| 07.04. 금 | [BOJ 아이들과 선물 상자](https://www.acmicpc.net/problem/23757) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/23757) | [BOJ 뒤집기](https://www.acmicpc.net/problem/15999) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15999) | [BOJ 트리의 외심](https://www.acmicpc.net/problem/17399) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17399) |
 
 <br>
 
@@ -26,8 +26,8 @@
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 07.01. 화 | [BOJ 귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14929) | [BOJ 동작 그만. 밑장 빼기냐?](https://www.acmicpc.net/problem/20159) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/20159) | [BOJ 트리의 외심](https://www.acmicpc.net/problem/17399) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/17399) |
 | 07.02. 수 | [BOJ 시계](https://www.acmicpc.net/problem/2082) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2082) | [BOJ 최대 유량](https://www.acmicpc.net/problem/6086) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/6086) | |
-| 07.03. 목 | [BOJ 평행선](https://www.acmicpc.net/problem/2358) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2358) | [BOJ 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14464) | !
-
+| 07.03. 목 | [BOJ 평행선](https://www.acmicpc.net/problem/2358) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2358) | [BOJ 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14464) | |
+| 07.04. 금 | [BOJ 아이들과 선물 상자](https://www.acmicpc.net/problem/23757) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/23757) | [BOJ 뒤집기](https://www.acmicpc.net/problem/15999) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15999) | |
 <br>
 
 ## Convention
