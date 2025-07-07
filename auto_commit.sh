@@ -36,7 +36,7 @@ boj_path=$file
 problem_id=$(echo $boj_path | cut -d '/' -f 2)
 
 # 4. README.md에서 해당 줄 찾기
-line=$(grep " $problem_id " README.md | tail -n 1)
+line=$(grep "problem/$problem_id" README.md | tail -n 1)
 
 if [ -z "$line" ]; then
     echo "⛔️ README.md에서 해당 문제를 찾을 수 없습니다."
@@ -54,7 +54,7 @@ if [ -z "$line" ]; then
     fi
 
     # 4-2. 그 후 다시 한 번 README.md에서 해당 줄 찾기
-    line=$(grep " $problem_id " README.md | tail -n 1)
+    line=$(grep "problem/$problem_id" README.md | tail -n 1)
     
     if [ -z "$line" ]; then
         echo "⛔️ 최근 README.md에서 해당 문제를 찾을 수 없습니다."
@@ -76,7 +76,7 @@ tag=""
 
 for i in 3 4 5; do
     cellText=$(echo $line | cut -d '|' -f $i)
-    if [[ "$cellText" == *" $problem_id "* ]]; then
+    if [[ "$cellText" == *"problem/$problem_id"* ]]; then
         tagIndex=$((i - 3))
 
         case $tagIndex in
