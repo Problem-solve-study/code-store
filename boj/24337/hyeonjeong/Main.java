@@ -36,7 +36,7 @@ class Main {
 
         // b 앞에 a가 볼 수 있는 건물 세우기
         else {
-            // a가 b보다 크면 a개만큼 건물 세우기
+            // a가 b보다 크면 b의 끝이 변경됨
             if (a > b) {
                     for (int i = 0; i < a; i++) {
                     buildings[n - b - i] = a - i;
@@ -51,10 +51,12 @@ class Main {
             }
         }
 
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < n; i++) {
-            System.out.print(buildings[i]);
-            System.out.print(" ");
+            sb.append(buildings[i]).append(' ');
         }
+
+        System.out.println(sb);
     }
 
     static int nextInt() throws IOException {
