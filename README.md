@@ -12,7 +12,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 07.07. 월 | [BOJ 징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22869) | [BOJ 가희와 탑](https://www.acmicpc.net/problem/24337) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24337) | [BOJ 네트워크 연결](https://www.acmicpc.net/problem/3780) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3780) |
+| 07.08. 화 | [BOJ 금메달, 은메달, 동메달은 누가?](https://www.acmicpc.net/problem/3230) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3230) | [BOJ 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14658) | [BOJ 네트워크 연결](https://www.acmicpc.net/problem/3780) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3780) |
 
 <br>
 
@@ -31,7 +31,7 @@
 | 07.05. 토 | [BOJ 종이 접기](https://www.acmicpc.net/problem/1802) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1802) | [BOJ 동전 뒤집기](https://www.acmicpc.net/problem/1285) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1285) |  |
 | 07.06. 일 | [BOJ 김인천씨의 식료품가게 (Small)](https://www.acmicpc.net/problem/12033) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12033) | [BOJ 팰린드롬 공장](https://www.acmicpc.net/problem/1053) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1053) |  |
 | 07.07. 월 | [BOJ 징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/22869) | [BOJ 가희와 탑](https://www.acmicpc.net/problem/24337) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24337) | [BOJ 네트워크 연결](https://www.acmicpc.net/problem/3780) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3780) |
-
+| 07.08. 화 | [BOJ 금메달, 은메달, 동메달은 누가?](https://www.acmicpc.net/problem/3230) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/3230) | [BOJ 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14658) | |
 
 <br>
 
