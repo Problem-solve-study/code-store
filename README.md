@@ -12,7 +12,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 07.22. 화 | [BOJ 플레이리스트](Https://www.acmicpc.net/problem/12872) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12872) | [BOJ 자원 캐기](https://www.acmicpc.net/problem/14430) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14430) | [BOJ 컨닝 2](https://www.acmicpc.net/problem/11014) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11014) |
+| 07.22. 화 | [BOJ 자원 캐기](https://www.acmicpc.net/problem/14430) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14430) | [BOJ 플레이리스트](Https://www.acmicpc.net/problem/12872) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12872) | [BOJ 컨닝 2](https://www.acmicpc.net/problem/11014) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11014) |
 
 <br>
 
