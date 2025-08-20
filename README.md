@@ -112,6 +112,7 @@
 
 <details>
   <summary>7월의 문제</summary>
+  
   | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 07.31. 목 | [BOJ 앉았다](https://www.acmicpc.net/problem/14717) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/14717) | [BOJ 서로 다른 자연수의 합](Https://www.acmicpc.net/problem/9764) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/9764) |
