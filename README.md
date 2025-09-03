@@ -12,6 +12,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09.03. 수 | [BOJ 점 숫자](https://www.acmicpc.net/problem/8891) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8891) | [BOJ 파일 합치기 3](https://www.acmicpc.net/problem/13975) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13975) | [BOJ 짐정리](https://www.acmicpc.net/problem/2569) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2569) |
 
 
 <br>
