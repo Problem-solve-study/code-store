@@ -4,6 +4,9 @@
 [BOJ ](https://www.acmicpc.net/problem/) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/)
 
 | 07..  |  |  |  |
+
+
+| 09.0.  | [BOJ ](https://www.acmicpc.net/problem/) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/) | [BOJ ](https://www.acmicpc.net/problem/) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/) | [BOJ ](https://www.acmicpc.net/problem/) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/) |
 -->
 
 # 2025 문제 해결 스터디
@@ -12,7 +15,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 09.03. 수 | [BOJ 점 숫자](https://www.acmicpc.net/problem/8891) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8891) | [BOJ 파일 합치기 3](https://www.acmicpc.net/problem/13975) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13975) | [BOJ 짐정리](https://www.acmicpc.net/problem/2569) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2569) |
+| 09.08. 월 | [BOJ 2+1 세일](https://www.acmicpc.net/problem/11508) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11508) | [BOJ 회의 장소](https://www.acmicpc.net/problem/31965) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/31965) | [BOJ 주식회사 승범이네](https://www.acmicpc.net/problem/16404) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16404) |
 
 
 <br>
@@ -25,6 +28,11 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09.08. 월 | [BOJ 2+1 세일](https://www.acmicpc.net/problem/11508) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11508) | [BOJ 회의 장소](https://www.acmicpc.net/problem/31965) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/31965) | [BOJ 주식회사 승범이네](https://www.acmicpc.net/problem/16404) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16404) |
+| 09.07. 일 | [BOJ 악수](https://www.acmicpc.net/problem/8394) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8394) | [BOJ 연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15659) |  |
+| 09.06. 토 | [BOJ 낚이고 낚아라](https://www.acmicpc.net/problem/15821) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/15821) | [BOJ 사과나무](https://www.acmicpc.net/problem/19539) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/19539) |  |
+| 09.05. 금 | [BOJ 예쁜 케이크](https://www.acmicpc.net/problem/24040) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24040) | [BOJ 토달기](https://www.acmicpc.net/problem/1897) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1897) |  |
+| 09.04. 목 | [BOJ 김인천씨의 식료품가게 (Large)](https://www.acmicpc.net/problem/12034) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/12034) | [BOJ 신기한 키보드](https://www.acmicpc.net/problem/1796) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1796) |  |
 | 09.03. 수 | [BOJ 점 숫자](https://www.acmicpc.net/problem/8891) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/8891) | [BOJ 파일 합치기 3](https://www.acmicpc.net/problem/13975) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/13975) | |
 | 09.02. 화 | [BOJ 세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다](https://www.acmicpc.net/problem/29754) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/29754) | [BOJ 트리](https://www.acmicpc.net/problem/10838) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10838) | [BOJ 짐정리](https://www.acmicpc.net/problem/2569) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2569) |
 | 09.01. 월 | [BOJ 비슷한 단어](https://www.acmicpc.net/problem/1411) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/1411) | [BOJ 우체국](https://www.acmicpc.net/problem/2285) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/2285) | [BOJ 열혈강호 4](https://www.acmicpc.net/problem/11378) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11378) |
