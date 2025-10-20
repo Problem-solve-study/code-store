@@ -17,7 +17,6 @@ public class Main {
         long result = ((cnt[0] * cnt[1]) << 1) + ((cnt[0] * (cnt[0] - 1)) >> 1) + cnt[0] * (n - cnt[0] - cnt[1]);
         System.out.println(result);
     }
-
     static int nextInt() throws Exception {
         int n, c;
         while ((c = System.in.read()) < 48) ;
