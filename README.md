@@ -15,7 +15,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.04. 화 | [BOJ 영재의 징검다리](https://www.acmicpc.net/problem/24392) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24392) | [BOJ 견우와 직녀](https://www.acmicpc.net/problem/16137) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/16137) | [BOJ 돌연변이](https://www.acmicpc.net/problem/10256) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10256) |
+| 11.05. 수 | [BOJ 이런 반전이](https://www.acmicpc.net/problem/11947) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/11947) | [BOJ 아름다운 문자열](https://www.acmicpc.net/problem/24524) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/24524) | [BOJ 돌연변이](https://www.acmicpc.net/problem/10256) [[코드]](https://github.com/Problem-solve-study/code-store/tree/main/boj/10256) |
 
 
 <br>
